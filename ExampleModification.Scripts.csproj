@@ -255,6 +255,456 @@
  <Reference Include="Owlcat.SharedTypes">
  <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/Owlcat.SharedTypes/Owlcat.SharedTypes.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEngine.AudioModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.AudioModule.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Core">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/System.Core.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TerrainPhysicsModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.TerrainPhysicsModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Newtonsoft.Json">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Newtonsoft.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ParticleSystemModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.ParticleSystemModule.dll</HintPath>
+ </Reference>
+ <Reference Include="DotNetZip">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DotNetZip.dll</HintPath>
+ </Reference>
+ <Reference Include="DungeonArchitect.Modules.Navigation2D">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DungeonArchitect.Modules.Navigation2D.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween50">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DOTween50.dll</HintPath>
+ </Reference>
+ <Reference Include="DXTCompressor">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DXTCompressor.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Net.Http">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/System.Net.Http.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VRModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.VRModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Recorder">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.Recorder.dll</HintPath>
+ </Reference>
+ <Reference Include="DungeonArchitect.Modules.Flow">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DungeonArchitect.Modules.Flow.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ProBuilder.Stl">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.ProBuilder.Stl.dll</HintPath>
+ </Reference>
+ <Reference Include="Rewired_OSX">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Rewired_OSX.dll</HintPath>
+ </Reference>
+ <Reference Include="System.ComponentModel.Composition">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/System.ComponentModel.Composition.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ScreenCaptureModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.ScreenCaptureModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Pathfinding.ClipperLib">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Pathfinding.ClipperLib.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UmbraModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.UmbraModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UnityWebRequestAssetBundleModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.PerformanceReportingModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.PerformanceReportingModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.InputModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.InputModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UnityWebRequestModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.UnityWebRequestModule.dll</HintPath>
+ </Reference>
+ <Reference Include="DungeonArchitect.Modules.Flow.Implementations">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DungeonArchitect.Modules.Flow.Implementations.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.InputLegacyModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.InputLegacyModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.AssetBundleModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.AssetBundleModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Owlcat.Runtime.UniRx">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Owlcat.Runtime.UniRx.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTweenPro">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DOTweenPro.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ClusterRendererModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.ClusterRendererModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VideoModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.VideoModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.SpriteMaskModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.SpriteMaskModule.dll</HintPath>
+ </Reference>
+ <Reference Include="DungeonArchitect.ThirdParty">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DungeonArchitect.ThirdParty.dll</HintPath>
+ </Reference>
+ <Reference Include="Core.Async">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Core.Async.dll</HintPath>
+ </Reference>
+ <Reference Include="DemiLib">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DemiLib.dll</HintPath>
+ </Reference>
+ <Reference Include="DungeonArchitect.Modules.SxEngine">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DungeonArchitect.Modules.SxEngine.dll</HintPath>
+ </Reference>
+ <Reference Include="System">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/System.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.GameCenterModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.GameCenterModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.SubstanceModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.SubstanceModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.LocalizationModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.LocalizationModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.MemoryProfiler">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.MemoryProfiler.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.TextMeshPro.dll</HintPath>
+ </Reference>
+ <Reference Include="Core.Overlays">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Core.Overlays.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ClothModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.ClothModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UIModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.UIModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Assembly-CSharp-firstpass">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Assembly-CSharp-firstpass.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TextCoreModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.TextCoreModule.dll</HintPath>
+ </Reference>
+ <Reference Include="I18N.Other">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/I18N.Other.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Configuration">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/System.Configuration.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VFXModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.VFXModule.dll</HintPath>
+ </Reference>
+ <Reference Include="DungeonArchitect.Modules.Common">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DungeonArchitect.Modules.Common.dll</HintPath>
+ </Reference>
+ <Reference Include="I18N.Rare">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/I18N.Rare.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Timeline">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.Timeline.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ProBuilder.Poly2Tri">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.ProBuilder.Poly2Tri.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.AccessibilityModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.AccessibilityModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TLSModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.TLSModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Boo.Lang">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Boo.Lang.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.DataPrivacy">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.PhysicsModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.PhysicsModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ARModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.ARModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Collections">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.Collections.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.AndroidJNIModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.AndroidJNIModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.SharedInternalsModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.SharedInternalsModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ProBuilder.KdTree">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.ProBuilder.KdTree.dll</HintPath>
+ </Reference>
+ <Reference Include="I18N">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/I18N.dll</HintPath>
+ </Reference>
+ <Reference Include="DungeonArchitect.Modules.UI">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DungeonArchitect.Modules.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.CoreModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.CoreModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ProBuilder">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.ProBuilder.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Mathematics">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.Mathematics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.GridModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.GridModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Jobs">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.Jobs.dll</HintPath>
+ </Reference>
+ <Reference Include="I18N.CJK">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/I18N.CJK.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TextRenderingModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.TextRenderingModule.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DOTween.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UnityAnalyticsModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.UnityAnalyticsModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UnityConnectModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.UnityConnectModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TerrainModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.TerrainModule.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Xml">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/System.Xml.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Security">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/System.Security.dll</HintPath>
+ </Reference>
+ <Reference Include="System.ServiceModel.Internals">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/System.ServiceModel.Internals.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.AnimationModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.AnimationModule.dll</HintPath>
+ </Reference>
+ <Reference Include="FFmpegOut">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/FFmpegOut.dll</HintPath>
+ </Reference>
+ <Reference Include="GalaxyCSharp">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/GalaxyCSharp.dll</HintPath>
+ </Reference>
+ <Reference Include="I18N.MidEast">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/I18N.MidEast.dll</HintPath>
+ </Reference>
+ <Reference Include="DungeonArchitect.Modules.VisibilityGraph">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DungeonArchitect.Modules.VisibilityGraph.dll</HintPath>
+ </Reference>
+ <Reference Include="UniRx">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UniRx.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TilemapModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.TilemapModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UNETModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.UNETModule.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Runtime">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/System.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="DungeonArchitect.Builders">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DungeonArchitect.Builders.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.SpriteShapeModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.SpriteShapeModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.SubsystemsModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.SubsystemsModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Formats.Fbx.Runtime">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.Formats.Fbx.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Burst.Unsafe">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.Burst.Unsafe.dll</HintPath>
+ </Reference>
+ <Reference Include="DungeonArchitect.Modules.Meshing">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DungeonArchitect.Modules.Meshing.dll</HintPath>
+ </Reference>
+ <Reference Include="Pathfinding.Ionic.Zip.Reduced">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween43">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DOTween43.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.DirectorModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.DirectorModule.dll</HintPath>
+ </Reference>
+ <Reference Include="0Harmony">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/0Harmony.dll</HintPath>
+ </Reference>
+ <Reference Include="DungeonArchitect.Modules.Graph">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DungeonArchitect.Modules.Graph.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Burst">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.Burst.dll</HintPath>
+ </Reference>
+ <Reference Include="I18N.West">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/I18N.West.dll</HintPath>
+ </Reference>
+ <Reference Include="Core.Console">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Core.Console.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.PlayableGraphVisualizer">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.PlayableGraphVisualizer.dll</HintPath>
+ </Reference>
+ <Reference Include="AstarPathfindingProject">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/AstarPathfindingProject.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.AIModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.AIModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Core.Cheats">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Core.Cheats.dll</HintPath>
+ </Reference>
+ <Reference Include="Mono.Security">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Mono.Security.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UnityWebRequestWWWModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TerrainTools">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.TerrainTools.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Xml.Linq">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/System.Xml.Linq.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Runtime.Serialization">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/System.Runtime.Serialization.dll</HintPath>
+ </Reference>
+ <Reference Include="Owlcat.Runtime.Validation">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Owlcat.Runtime.Validation.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.CrashReportingModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.CrashReportingModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ClusterInputModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.ClusterInputModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Recorder.Base">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.Recorder.Base.dll</HintPath>
+ </Reference>
+ <Reference Include="Pathfinding.Poly2Tri">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Pathfinding.Poly2Tri.dll</HintPath>
+ </Reference>
+ <Reference Include="DungeonArchitect.Core">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DungeonArchitect.Core.dll</HintPath>
+ </Reference>
+ <Reference Include="Assembly-CSharp">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Assembly-CSharp.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UnityWebRequestAudioModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween46">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DOTween46.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.JSONSerializeModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.JSONSerializeModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Core.Reflection">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Core.Reflection.dll</HintPath>
+ </Reference>
+ <Reference Include="Owlcat.Runtime.UI">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Owlcat.Runtime.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Runtime.CompilerServices.Unsafe">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.DSPGraphModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.DSPGraphModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.VisualEffectGraph.Runtime">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.VisualEffectGraph.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Physics2DModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.Physics2DModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ImageConversionModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.ImageConversionModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UnityWebRequestTextureModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VehiclesModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.VehiclesModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.XRModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.XRModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ProfilerModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.ProfilerModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.RenderPipelines.Core.Runtime">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UIElementsModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.UIElementsModule.dll</HintPath>
+ </Reference>
+ <Reference Include="DungeonArchitect.Modules.Grammar">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/DungeonArchitect.Modules.Grammar.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.Tracker">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.Analytics.Tracker.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.IMGUIModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.IMGUIModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Mono.Posix">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Mono.Posix.dll</HintPath>
+ </Reference>
+ <Reference Include="Rewired_Core">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Rewired_Core.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.HotReloadModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.HotReloadModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Owlcat.Runtime.Core">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Owlcat.Runtime.Core.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.StandardEvents">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Unity.Analytics.StandardEvents.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.StreamingModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.StreamingModule.dll</HintPath>
+ </Reference>
+ <Reference Include="Owlcat.Runtime.Visual">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/Owlcat.Runtime.Visual.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UnityTestProtocolModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.UnityTestProtocolModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.WindModule">
+ <HintPath>/Users/gbeine/nextcloud/private/Projects/Pathfinder/PF-WotR-DedicatedArchetypes/Assets/PathfinderAssemblies/UnityEngine.WindModule.dll</HintPath>
+ </Reference>
  <Reference Include="mscorlib">
  <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
  </Reference>
