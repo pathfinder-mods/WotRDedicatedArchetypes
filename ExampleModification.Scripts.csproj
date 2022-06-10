@@ -50,16 +50,6 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Modifications\Examples\Basics\Scripts\ModificationData.cs" />
-     <Compile Include="Assets\Modifications\Examples\Basics\Scripts\ModificationRoot.cs" />
-     <Compile Include="Assets\Modifications\Examples\Basics\Scripts\Tests\AddCubeToProjectile.cs" />
-     <Compile Include="Assets\Modifications\Examples\Basics\Scripts\Tests\BarkOnAttackWithWeapon.cs" />
-     <Compile Include="Assets\Modifications\Examples\Basics\Scripts\Tests\BuffMainCharacterOnAreaLoad.cs" />
-     <Compile Include="Assets\Modifications\Examples\Basics\Scripts\Tests\ControllersTest.cs" />
-     <Compile Include="Assets\Modifications\Examples\Basics\Scripts\Tests\DuplicateDamage.cs" />
-     <Compile Include="Assets\Modifications\Examples\Basics\Scripts\Tests\HarmonyPatch.cs" />
-     <Compile Include="Assets\Modifications\Examples\Basics\Scripts\Tests\PerSaveDataTest.cs" />
-     <None Include="Assets\Modifications\Examples\Basics\Scripts\ExampleModification.Scripts.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -1056,6 +1046,9 @@
  <Reference Include="Boo.Lang">
  <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
  </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets\Modifications" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

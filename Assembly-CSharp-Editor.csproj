@@ -1104,10 +1104,6 @@
       <Project>{6711e48a-a386-6aa0-9dad-fb0760f6aaf3}</Project>
       <Name>ProjectSetup</Name>
     </ProjectReference>
-    <ProjectReference Include="ExampleModification.Scripts.csproj">
-      <Project>{cc0bfd7a-7614-db74-ddd9-b6b307f9fe46}</Project>
-      <Name>ExampleModification.Scripts</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
