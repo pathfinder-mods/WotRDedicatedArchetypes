@@ -1,0 +1,62 @@
+{
+  "AssetId": "a5ce9c879ccc4b43b6c1aaac33aa10e8",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "WarpriestDedicatedArchetype_Name",
+      "m_OwnerString": "a5ce9c879ccc4b43b6c1aaac33aa10e8",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedDescription": {
+      "m_Key": "WarpriestDedicatedArchetype_Description",
+      "m_OwnerString": "a5ce9c879ccc4b43b6c1aaac33aa10e8",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": null,
+    "RemoveSpellbook": false,
+    "BuildChanging": false,
+    "AddFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_fcccb785ebd749c0a1eb1292f8ab45d2"
+        ]
+      }
+    ],
+    "RemoveFeatures": [],
+    "ReplaceStartingEquipment": false,
+    "StartingGold": 0,
+    "m_StartingItems": [],
+    "ReplaceClassSkills": false,
+    "ClassSkills": [],
+    "ChangeCasterType": false,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "AddSkillPoints": 3,
+    "OverrideAttributeRecommendations": false,
+    "RecommendedAttributes": [],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 1
+  }
+}

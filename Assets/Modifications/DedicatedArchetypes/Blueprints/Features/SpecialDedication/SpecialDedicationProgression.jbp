@@ -1,0 +1,137 @@
+{
+  "AssetId": "85ccf750c2c14b74bdfe0d7ff67bb5c5",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$NoSelectionIfAlreadyHasFeature$58f0afdb-7637-4b8a-9f39-da2a9c8ae78c"
+    ],
+    "Components": [
+      {
+        "$type": "7e9c938c232d48a4eb8458e448cfff33, NoSelectionIfAlreadyHasFeature",
+        "name": "$NoSelectionIfAlreadyHasFeature$58f0afdb-7637-4b8a-9f39-da2a9c8ae78c",
+        "m_Overrides": [],
+        "AnyFeatureFromSelection": true,
+        "m_Features": []
+      }
+
+    ],
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SpecialDedicationProgression_Name",
+      "m_OwnerString": "85ccf750c2c14b74bdfe0d7ff67bb5c5",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "SpecialDedicationProgression_Description",
+      "m_OwnerString": "85ccf750c2c14b74bdfe0d7ff67bb5c5",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "ad05c2b9c08927f47ad7236f6bacd11f",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "Dedication"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [
+      {
+        "Comment": "Cavalier",
+        "m_Class": "!bp_3adc3439f98cb534ba98df59838f02c7",
+        "AdditionalLevel": 0
+      },
+      {
+        "Comment": "Warpriest",
+        "m_Class": "!bp_30b5e47d47a0e37438cc5a80c96cfb99",
+        "AdditionalLevel": 0
+      }
+    ],
+    "m_Archetypes": [
+      {
+        "Comment": "Cavalier",
+        "m_Archetype": "!bp_2530c8d381b04da1a11324d58699ad7e",
+        "AdditionalLevel": 0
+      },
+      {
+        "Comment": "Warpriest",
+        "m_Archetype": "!bp_30b5e47d47a0e37438cc5a80c96cfb99",
+        "AdditionalLevel": 0
+      }
+    ],
+    "ForAllOtherClasses": false,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+        ]
+      },
+      {
+        "Level": 4,
+        "m_Features": [
+        ]
+      },
+      {
+        "Level": 7,
+        "m_Features": [
+        ]
+      },
+      {
+        "Level": 10,
+        "m_Features": [
+        ]
+      },
+      {
+        "Level": 13,
+        "m_Features": [
+        ]
+      },
+      {
+        "Level": 16,
+        "m_Features": [
+        ]
+      },
+      {
+        "Level": 19,
+        "m_Features": [
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "Comment": "Special Dedication Selections",
+        "m_Features": [
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeatureRankIncrease": null
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "AssetId": "30b5e47d47a0e37438cc5a80c96cfb99",
+  "Data": {
+    "$type": "5f2bdd25f161a0d4c97bee89cf923d77, BlueprintCharacterClass",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$PrerequisiteIsPet$ed658f67-429c-4d6e-bcda-1efc04e57859",
+      "$DeityDependencyClass$db0d6ef5-6cba-4e56-9c62-80d57102edfd"
+    ],
+    "Components": [
+      {
+        "$type": "532e804185719b942b52ed141aa10a21, PrerequisiteIsPet",
+        "m_Flags": 0,
+        "name": "$PrerequisiteIsPet$ed658f67-429c-4d6e-bcda-1efc04e57859",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Not": true
+      },
+      {
+        "$type": "4950f8993ff875341bf6ce948dc2e13c, DeityDependencyClass",
+        "m_Flags": 0,
+        "name": "$DeityDependencyClass$db0d6ef5-6cba-4e56-9c62-80d57102edfd",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "IsDeityDependencyClass": true
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoFeature$229a9357-1c69-4628-8cbf-3961e3814169",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_92c0d2da0a836ce418a267093c09ca54"
+      }
+    ],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "4279e6a3e55d53d4cbbf9bc4622f36e3",
+        "stringkey": "593cd558-f9c0-4705-a7a1-40721ef71faa"
+      }
+    },
+    "LocalizedDescription": {
+      "m_Key": "bae545f9-e2a0-4229-af60-cdffbd25744d",
+      "m_OwnerString": "30b5e47d47a0e37438cc5a80c96cfb99",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Warpriest/WarpriestClass_LocalizedDescription.json",
+      "Shared": null
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "82301a9d-7ba3-4f0b-b884-bb9c88b17ac5",
+      "m_OwnerString": "30b5e47d47a0e37438cc5a80c96cfb99",
+      "m_OwnerPropertyPath": "LocalizedDescriptionShort",
+      "m_JsonPath": "Strings/Mechanics/Blueprints\\Classes\\Warpriest\\WarpriestClass_LocalizedDescriptionShort.json",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "SkillPoints": 2,
+    "HitDie": "D8",
+    "HideIfRestricted": false,
+    "PrestigeClass": false,
+    "IsMythic": false,
+    "m_IsHigherMythic": false,
+    "m_BaseAttackBonus": "!bp_4c936de4249b61e419a3fb775b9f2581",
+    "m_FortitudeSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_ReflexSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3",
+    "m_WillSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_Progression": "!bp_062b215705430ad47b7174c1e75d285e",
+    "m_Spellbook": "!bp_7d7d51be2948d2544b3c2e1596fd7603",
+    "ClassSkills": [
+      "SkillAthletics",
+      "SkillLoreReligion",
+      "SkillKnowledgeWorld",
+      "SkillKnowledgeArcana",
+      "SkillPersuasion"
+    ],
+    "IsDivineCaster": true,
+    "IsArcaneCaster": false,
+    "m_Archetypes": [
+      "!bp_ad56b5819c4072345bff9aff6f1df13c",
+      "!bp_cd2d419961bb019438b77d4aecc2fc04",
+      "!bp_f68ca492c9c15e241ab73735fbd0fb9f",
+      "!bp_384a9d0c3f1b0634ba183b77d75618c0",
+      "!bp_d34dcc10e74961f44a81f72b54377b24",
+      "!bp_aaf7ace9642192d4389eab95e6cd04fd"
+    ],
+    "StartingGold": 411,
+    "m_StartingItems": [
+      "!bp_d7963e1fcf260c148877afd3252dbc91",
+      "!bp_f4cef3ba1a15b0f4fa7fd66b602ff32b",
+      "!bp_4499f1b1dfc7a3d4ab1b95a13580e2e4",
+      "!bp_d52566ae8cbe8dc4dae977ef51c27d91",
+      "!bp_bc93a78d71bef084fa155e529660ed0d"
+    ],
+    "PrimaryColor": 73,
+    "SecondaryColor": 12,
+    "m_EquipmentEntities": [],
+    "MaleEquipmentEntities": [
+      {
+        "AssetId": "da4d4f059cef00d419c6b1974bc78ffb"
+      },
+      {
+        "AssetId": "cc29bd5f9dc0a1641897f4e45abd5984"
+      }
+    ],
+    "FemaleEquipmentEntities": [
+      {
+        "AssetId": "e49676c703785c749bea0aa63ba79cfd"
+      },
+      {
+        "AssetId": "166ac63e67358ce42abb2ac3292f19c1"
+      }
+    ],
+    "m_Difficulty": 4,
+    "RecommendedAttributes": [
+      "Strength",
+      "Wisdom",
+      "Constitution"
+    ],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [
+      "!bp_a1bc2faf5cc646b8bd615e98eec5a1b4",
+      "!bp_7264aa0c3aac4552bdb49b67b2b359ce",
+      "!bp_a3d148e3817044e4a33cda6c5fd79204"
+    ],
+    "m_DefaultBuild": "!bp_4121232412d848d094679e0890669f2c",
+    "m_AdditionalVisualSettings": null,
+    "VisualSettingsPriority": 0
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

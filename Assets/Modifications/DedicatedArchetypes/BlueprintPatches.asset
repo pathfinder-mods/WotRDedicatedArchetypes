@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80fe07f61edc4914ac44891e22e1fdf7, type: 3}
+  m_Name: BlueprintPatches
+  m_EditorClassIdentifier:
+  Entries:
+  - Guid: 3adc3439f98cb534ba98df59838f02c7
+    Filename: Patches/Classes/Cavalier/CavalierClass.patch
+  - Guid: 30b5e47d47a0e37438cc5a80c96cfb99
+    Filename: Patches/Classes/Warpriest/WarpriestClass.patch

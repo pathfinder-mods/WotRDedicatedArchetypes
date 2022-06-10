@@ -1,0 +1,122 @@
+{
+  "AssetId": "3adc3439f98cb534ba98df59838f02c7",
+  "Data": {
+    "$type": "5f2bdd25f161a0d4c97bee89cf923d77, BlueprintCharacterClass",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$PrerequisiteIsPet$e5937b43-08d5-42d6-8a85-260d6b9f10c8"
+    ],
+    "Components": [
+      {
+        "$type": "532e804185719b942b52ed141aa10a21, PrerequisiteIsPet",
+        "name": "$PrerequisiteIsPet$e5937b43-08d5-42d6-8a85-260d6b9f10c8",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Not": true
+      }
+    ],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "708387c6230e4b4409086e9122e3c5b4",
+        "stringkey": "a53e9077-c0e5-4d3c-8286-848ab958b478"
+      }
+    },
+    "LocalizedDescription": {
+      "m_Key": "64bce211-a221-423f-98bd-c002d56166dc",
+      "m_OwnerString": "3adc3439f98cb534ba98df59838f02c7",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Cavalier/CavalierClass_LocalizedDescription.json",
+      "Shared": null
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "e3d7bf0c23b09454089fdec03cb6451c",
+        "stringkey": "9dbb83de-e544-48d3-8b61-e0c93d67b748"
+      }
+    },
+    "m_Icon": null,
+    "SkillPoints": 3,
+    "HitDie": "D10",
+    "HideIfRestricted": false,
+    "PrestigeClass": false,
+    "IsMythic": false,
+    "DlcType": "None",
+    "m_BaseAttackBonus": "!bp_b3057560ffff3514299e8b93e7648a9d",
+    "m_FortitudeSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_ReflexSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3",
+    "m_WillSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3",
+    "m_Progression": "!bp_aa70326bdaa7015438df585cf2ab93b9",
+    "m_Spellbook": null,
+    "ClassSkills": [
+      "SkillPersuasion",
+      "SkillAthletics",
+      "SkillMobility"
+    ],
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "m_Archetypes": [
+      "!bp_d287fbf2495ff2e4d88d5c49217bf173",
+      "!bp_4c4c3f9df00a5e04680d172a290111c4",
+      "!bp_112dd0e61f95c3a459ac0a565472e685",
+      "!bp_48fd69254e9e5c540bd65101d3252184",
+      "!bp_07db3fec753209546a792a7942288998",
+      "!bp_13cc5ccd5cef4c98a5806f033e19a8bb",
+      "!bp_8d95dc9edd5740aeadb5906198a9925a"
+    ],
+    "StartingGold": 411,
+    "m_StartingItems": [
+      "!bp_d7963e1fcf260c148877afd3252dbc91",
+      "!bp_533e10c8b4c6a4940a3767d096f4f05d",
+      "!bp_f4cef3ba1a15b0f4fa7fd66b602ff32b",
+      "!bp_201f6150321e09048bd59e9b7f558cb0",
+      "!bp_d52566ae8cbe8dc4dae977ef51c27d91"
+    ],
+    "PrimaryColor": 18,
+    "SecondaryColor": 13,
+    "m_EquipmentEntities": [],
+    "MaleEquipmentEntities": [
+      {
+        "AssetId": "ae1e5e4fc4163094ba8bc06dec79d325"
+      },
+      {
+        "AssetId": "e2e011242ea29fd4593d6cfbd06c8a2b"
+      }
+    ],
+    "FemaleEquipmentEntities": [
+      {
+        "AssetId": "46d879e169045334190df70681415f35"
+      },
+      {
+        "AssetId": "b2fe1a2aa7dd60c41a185dfdfca2e33f"
+      }
+    ],
+    "m_Difficulty": 2,
+    "RecommendedAttributes": [
+      "Strength",
+      "Constitution"
+    ],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [
+      "!bp_711590e681a04f34a60544ed5c6af379",
+      "!bp_953d40db7e194f1f95b63a8164401f1a",
+      "!bp_54fd90ffe3ad4dc59e674fc7d7b717fc"
+    ],
+    "m_DefaultBuild": "!bp_4d5fb2f0c9ef41b08f1a0f7572358c32",
+    "m_AdditionalVisualSettings": null
+  }
+}

@@ -11,13 +11,13 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 99c27a98d022a8b499d4a50de5012fad, type: 3}
   m_Name: DedicatedArchetypes
-  m_EditorClassIdentifier: 
+  m_EditorClassIdentifier:
   Manifest:
-    UniqueName: 
-    Version: 
-    DisplayName: 
-    Description: 
-    Author: 
-    Repository: 
-    HomePage: 
+    UniqueName: DedicatedArchetypes
+    Version: 0.0.1
+    DisplayName: Dedicated Archetypes
+    Description: Dedicated Archetypes for Character Classes
+    Author: gbeine
+    Repository: https://github.com/pathfinder-mods/WotRDedicatedArchetypes
+    HomePage: https://github.com/pathfinder-mods/WotRDedicatedArchetypes
     Dependencies: []

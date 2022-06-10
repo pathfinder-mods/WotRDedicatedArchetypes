@@ -1,0 +1,92 @@
+{
+  "strings": [
+
+    {
+      "Key": "Comment_Archetypes",
+      "Value": "######################################################################"
+    },
+    {
+      "Key": "CavalierDedicatedArchetype_Name",
+      "Value": "Begabter Ritter"
+    },
+    {
+      "Key": "CavalierDedicatedArchetype_Description",
+      "Value": "Begabter Ritter"
+    },
+    {
+      "Key": "WarpriestDedicatedArchetype_Name",
+      "Value": "Begabter Kriegspriester"
+    },
+    {
+      "Key": "WarpriestDedicatedArchetype_Description",
+      "Value": "Begabter Kriegspriester"
+    },
+
+
+
+    {
+      "Key": "Comment_Proficiencies",
+      "Value": "######################################################################"
+    },
+
+
+
+    {
+      "Key": "Comment_Progressions",
+      "Value": "######################################################################"
+    },
+    {
+      "Key": "ArchetypeDedicationProgression_Name",
+      "Value": "Begabungen von Archetypen"
+    },
+    {
+      "Key": "ArchetypeDedicationProgression_Description",
+      "Value": ""
+    },
+    {
+      "Key": "SpecialDedicationProgression_Name",
+      "Value": "Besondere Begabungen"
+    },
+    {
+      "Key": "SpecialDedicationProgression_Description",
+      "Value": ""
+    },
+
+
+
+    {
+      "Key": "Comment_Selections",
+      "Value": "######################################################################"
+    },
+    {
+      "Key": "DedicationSelection_Name",
+      "Value": "Begabungen"
+    },
+    {
+      "Key": "DedicationSelection_Description",
+      "Value": "Begabungen erlauben es, Fähigkeiten anderer Klassen und Archetypen zu erlernen. Es besteht die Möglichkeit, die Fähigkeiten spezieller Archetypen  zu erlernen oder im Laufe der Zeit spezialisierte Begabungen, ohne sich auf einen Archetyp festlegen zu müssen."
+    },
+
+
+
+    {
+      "Key": "Comment_Features",
+      "Value": "######################################################################"
+    },
+
+
+
+    {
+      "Key": "Comment_Shared",
+      "Value": "######################################################################"
+    },
+
+
+
+
+    {
+      "Key": "Comment_End",
+      "Value": "######################################################################"
+    }
+  ]
+}
