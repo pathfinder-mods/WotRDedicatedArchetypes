@@ -49,7 +49,8 @@
     },
     {
       "Key": "SpecialDedicationProgression_Description",
-      "Value": ""
+      "Value": "Der Charakter kann im Laufe der Zeit einige besondere Fähigkeiten erlernen."
+    },
     {
       "Key": "FighterArchetypeDedicationProgression_Name",
       "Value": "Begabung zum Kämpfer"
@@ -120,6 +121,14 @@
     {
       "Key": "ThirdArchetypeDedicationSelection_Name",
       "Value": "3. Archetypbegabung"
+    },
+    {
+      "Key": "SpecialDedicationSelection_Name",
+      "Value": "Besondere Begabung"
+    },
+    {
+      "Key": "SpecialDedicationSelection_Description",
+      "Value": "Auf Level 1 und danach auf jedem 3. Level erhält der Charakter eine neue besondere Begabung."
     },
 
 

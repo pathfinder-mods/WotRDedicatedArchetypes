@@ -1,0 +1,64 @@
+{
+  "AssetId": "d5ff9f2207c843b8a074b9af6269767e",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$NoSelectionIfAlreadyHasFeature$2f61e050-0d1b-4e2d-beb6-6fa7be2ccf16"
+    ],
+    "Components": [
+      {
+        "$type": "7e9c938c232d48a4eb8458e448cfff33, NoSelectionIfAlreadyHasFeature",
+        "name": "$NoSelectionIfAlreadyHasFeature$2f61e050-0d1b-4e2d-beb6-6fa7be2ccf16",
+        "m_Overrides": [],
+        "AnyFeatureFromSelection": true,
+        "m_Features": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SpecialDedicationSelection_Name",
+      "m_OwnerString": "d5ff9f2207c843b8a074b9af6269767e",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "SpecialDedicationSelection_Description",
+      "m_OwnerString": "d5ff9f2207c843b8a074b9af6269767e",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "ad05c2b9c08927f47ad7236f6bacd11f",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [
+    ],
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "Dedication",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+    ]
+  }
+}
