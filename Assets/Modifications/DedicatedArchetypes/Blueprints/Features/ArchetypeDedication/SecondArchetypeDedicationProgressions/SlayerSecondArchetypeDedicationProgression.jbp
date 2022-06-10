@@ -1,0 +1,252 @@
+{
+  "AssetId": "749e66b95b1c44e7a284f8d50278f498",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$7f954dc5-7860-49a7-be7f-cba75c95024c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_299aa766dee3cbf4790da4efb8c72484"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$2b8d8e88-3e6a-40a6-a39a-a9d30b7fc732",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_c75e0971973957d4dbad24bc7957e4fb"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$75c8b792-b100-4546-9b86-c8d66b06cbeb",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_ffb3ab9de17c44199aa4f133d823d738"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$7e60f8ef-6f02-48a7-9e32-8f6c67368440",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_e186407dda2a4f20a4647130df3429bd"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$2c5229e4-30da-4fe7-ae72-1f7b294969f2",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_5309dc30621f4bd392b4e285b7e39d15"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$b83d40f2-8951-4f9b-8d3e-53f01aed70d7",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_34d0592960a249508241e6699d28dcf5"
+      }
+    ],
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SlayerArchetypeDedicationProgression_Name",
+      "m_OwnerString": "749e66b95b1c44e7a284f8d50278f498",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "SlayerArchetypeDedicationProgression_Description",
+      "m_OwnerString": "749e66b95b1c44e7a284f8d50278f498",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "52149219af9821e4b84d5ffae00b9b38",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "Dedication"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": true,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 8,
+        "Comment": "Study Target, Slayer Talents",
+        "m_Features": [
+          "!bp_09bdd9445ac38044389476689ae8d5a1",
+          "!bp_913b9cf25c9536949b43a2651b7ffb66"
+        ]
+      },
+      {
+        "Level": 9,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 10,
+        "Comment": "Slayer Talents, Advanced Talents",
+        "m_Features": [
+          "!bp_913b9cf25c9536949b43a2651b7ffb66",
+          "!bp_a33b99f95322d6741af83e9381b2391c"
+        ]
+      },
+      {
+        "Level": 11,
+        "Comment": "Study Target",
+        "m_Features": [
+          "!bp_09bdd9445ac38044389476689ae8d5a1"
+        ]
+      },
+      {
+        "Level": 12,
+        "Comment": "Slayer Talents, Sneak Attack",
+        "m_Features": [
+          "!bp_913b9cf25c9536949b43a2651b7ffb66",
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 13,
+        "Comment": "Fast Study Target",
+        "m_Features": [
+          "!bp_40d4f55a5ac0e4f469d67d36c0dfc40b"
+        ]
+      },
+      {
+        "Level": 14,
+        "Comment": "Slayer Talents",
+        "m_Features": [
+          "!bp_913b9cf25c9536949b43a2651b7ffb66"
+        ]
+      },
+      {
+        "Level": 15,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 16,
+        "Comment": "Slayer Talents, Study Target",
+        "m_Features": [
+          "!bp_913b9cf25c9536949b43a2651b7ffb66",
+          "!bp_09bdd9445ac38044389476689ae8d5a1"
+        ]
+      },
+      {
+        "Level": 17,
+        "m_Features": [
+        ]
+      },
+      {
+        "Level": 18,
+        "Comment": "Slayer Talents, Sneak Attack",
+        "m_Features": [
+          "!bp_913b9cf25c9536949b43a2651b7ffb66",
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 19,
+        "m_Features": [
+        ]
+      },
+      {
+        "Level": 20,
+        "Comment": "Slayer Talents, Study Target, Master Slayer",
+        "m_Features": [
+          "!bp_913b9cf25c9536949b43a2651b7ffb66",
+          "!bp_09bdd9445ac38044389476689ae8d5a1",
+          "!bp_a26c0279a423fc94cabeea898f4d9f8a"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "Comment": "Study Target, Fast Study Target",
+        "m_Features": [
+          "!bp_09bdd9445ac38044389476689ae8d5a1",
+          "!bp_40d4f55a5ac0e4f469d67d36c0dfc40b"
+        ]
+      },
+      {
+        "Comment": "Sneak Attack, Master Slayer",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
+          "!bp_a26c0279a423fc94cabeea898f4d9f8a"
+        ]
+      },
+      {
+        "Comment": "Slayer Talents",
+        "m_Features": [
+          "!bp_913b9cf25c9536949b43a2651b7ffb66"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeatureRankIncrease": null
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "AssetId": "92156e5133564ccda095840cc351789b",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$9e731792-e803-46b1-8e62-00827787e044",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_48ac8db94d5de7645906c7d0ad3bcfbd"
+      }
+    ],
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "FighterArchetypeDedicationProgression_Name",
+      "m_OwnerString": "92156e5133564ccda095840cc351789b",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "FighterArchetypeDedicationProgression_Description",
+      "m_OwnerString": "92156e5133564ccda095840cc351789b",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "681734e59fe8acd4e8fc2b3ae745726f",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "Dedication"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": true,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Level": 2,
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Level": 3,
+        "Comment": "Armor Training",
+        "m_Features": [
+          "!bp_3c380607706f209499d951b29d3c44f3"
+        ]
+      },
+      {
+        "Level": 4,
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Level": 5,
+        "Comment": "Weapon Training",
+        "m_Features": [
+          "!bp_b8cecf4e5e464ad41b79d5b42b76b399"
+        ]
+      },
+      {
+        "Level": 6,
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Level": 7,
+        "Comment": "Armor Training",
+        "m_Features": [
+          "!bp_3c380607706f209499d951b29d3c44f3"
+        ]
+      },
+      {
+        "Level": 8,
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Level": 9,
+        "Comment": "Weapon Training",
+        "m_Features": [
+          "!bp_b8cecf4e5e464ad41b79d5b42b76b399"
+        ]
+      },
+      {
+        "Level": 10,
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Level": 11,
+        "Comment": "Armor Training",
+        "m_Features": [
+          "!bp_3c380607706f209499d951b29d3c44f3"
+        ]
+      },
+      {
+        "Level": 12,
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Level": 13,
+        "Comment": "Weapon Training",
+        "m_Features": [
+          "!bp_b8cecf4e5e464ad41b79d5b42b76b399"
+        ]
+      },
+      {
+        "Level": 14,
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Level": 15,
+        "Comment": "Armor Training",
+        "m_Features": [
+          "!bp_3c380607706f209499d951b29d3c44f3"
+        ]
+      },
+      {
+        "Level": 16,
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Level": 17,
+        "Comment": "Weapon Training",
+        "m_Features": [
+          "!bp_b8cecf4e5e464ad41b79d5b42b76b399"
+        ]
+      },
+      {
+        "Level": 18,
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Level": 19,
+        "Comment": "Armor Mastery",
+        "m_Features": [
+          "!bp_ae177f17cfb45264291d4d7c2cb64671"
+        ]
+      },
+      {
+        "Level": 20,
+        "Comment": "Fighter Feature, Weapon Mastery",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f",
+          "!bp_55f516d7d1fc5294aba352a5a1c92786"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Comment": "Armor Training, Armor Mastery",
+        "m_Features": [
+          "!bp_3c380607706f209499d951b29d3c44f3",
+          "!bp_ae177f17cfb45264291d4d7c2cb64671"
+        ]
+      },
+      {
+        "Comment": "Weapon Training, Weapon Mastery",
+        "m_Features": [
+          "!bp_b8cecf4e5e464ad41b79d5b42b76b399",
+          "!bp_55f516d7d1fc5294aba352a5a1c92786"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeatureRankIncrease": null
+  }
+}

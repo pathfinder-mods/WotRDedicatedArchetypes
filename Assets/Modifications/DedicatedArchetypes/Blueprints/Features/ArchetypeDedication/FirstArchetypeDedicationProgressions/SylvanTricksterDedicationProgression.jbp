@@ -1,0 +1,267 @@
+{
+  "AssetId": "34d0592960a249508241e6699d28dcf5",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$a1761906-b1e6-45cf-8eb3-e7d1a1d639df",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_299aa766dee3cbf4790da4efb8c72484"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$5a890522-6e82-4ebe-9395-435fc64db76a",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_c75e0971973957d4dbad24bc7957e4fb"
+      }
+    ],
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SylvanTricksterArchetypeDedicationProgression_Name",
+      "m_OwnerString": "34d0592960a249508241e6699d28dcf5",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "SylvanTricksterArchetypeDedicationProgression_Description",
+      "m_OwnerString": "34d0592960a249508241e6699d28dcf5",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "d4960a0f7e7cc6843bf6d675985fd381",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "Dedication"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": true,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "Comment": "Weapon Finesse, Trap Finding",
+        "m_Features": [
+          "!bp_90e54424d682d104ab36436bd527af09",
+          "!bp_dbb6b3bffe6db3547b31c3711653838e"
+        ]
+      },
+      {
+        "Level": 2,
+        "Comment": "Sylvan Trickster Talents",
+        "m_Features": [
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452"
+        ]
+      },
+      {
+        "Level": 3,
+        "Comment": "Danger Sense, Finesse Training",
+        "m_Features": [
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136",
+          "!bp_b78d146cea711a84598f0acef69462ea"
+        ]
+      },
+      {
+        "Level": 4,
+        "Comment": "Sylvan Trickster Talents",
+        "m_Features": [
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452"
+        ]
+      },
+      {
+        "Level": 5,
+        "Comment": "",
+        "m_Features": [
+        ]
+      },
+      {
+        "Level": 6,
+        "Comment": "Danger Sense, Sylvan Trickster Talents",
+        "m_Features": [
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136",
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452"
+        ]
+      },
+      {
+        "Level": 7,
+        "Comment": "",
+        "m_Features": [
+        ]
+      },
+      {
+        "Level": 8,
+        "Comment": "Sylvan Trickster Talents, Fey Resistance",
+        "m_Features": [
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452",
+          "!bp_ae0ef197e1904464e9afe115334d4bca"
+        ]
+      },
+      {
+        "Level": 9,
+        "Comment": "Danger Sense",
+        "m_Features": [
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
+        ]
+      },
+      {
+        "Level": 10,
+        "Comment": "Sylvan Trickster Talents, WitchMajorHex",
+        "m_Features": [
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452",
+          "!bp_8ac781b33e380c84aa578f1b006dd6c5"
+        ]
+      },
+      {
+        "Level": 11,
+        "Comment": "Finesse Training, Fey Resistance",
+        "m_Features": [
+          "!bp_b78d146cea711a84598f0acef69462ea",
+          "!bp_ae0ef197e1904464e9afe115334d4bca"
+        ]
+      },
+      {
+        "Level": 12,
+        "Comment": "Danger Sense, Sylvan Trickster Talents",
+        "m_Features": [
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136",
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452"
+        ]
+      },
+      {
+        "Level": 13,
+        "Comment": "",
+        "m_Features": [
+        ]
+      },
+      {
+        "Level": 14,
+        "Comment": "Fey Resistance",
+        "m_Features": [
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452",
+          "!bp_ae0ef197e1904464e9afe115334d4bca"
+        ]
+      },
+      {
+        "Level": 15,
+        "Comment": "Danger Sense",
+        "m_Features": [
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
+        ]
+      },
+      {
+        "Level": 16,
+        "Comment": "Sylvan Trickster Talents",
+        "m_Features": [
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452"
+        ]
+      },
+      {
+        "Level": 17,
+        "Comment": "Fey Resistance",
+        "m_Features": [
+          "!bp_ae0ef197e1904464e9afe115334d4bca"
+        ]
+      },
+      {
+        "Level": 18,
+        "Comment": "Danger Sense, Sylvan Trickster Talents, WitchGrandHex",
+        "m_Features": [
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136",
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452",
+          "!bp_d24c2467804ce0e4497d9978bafec1f9"
+        ]
+      },
+      {
+        "Level": 19,
+        "Comment": "Finesse Training",
+        "m_Features": [
+          "!bp_b78d146cea711a84598f0acef69462ea"
+        ]
+      },
+      {
+        "Level": 20,
+        "Comment": "Sylvan Trickster Talents, Fey Resistance",
+        "m_Features": [
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452",
+          "!bp_ae0ef197e1904464e9afe115334d4bca"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "Comment": "Danger Sense",
+        "m_Features": [
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
+        ]
+      },
+      {
+        "Comment": "Sylvan Trickster Talents, Trap Finding",
+        "m_Features": [
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452",
+          "!bp_dbb6b3bffe6db3547b31c3711653838e"
+        ]
+      },
+      {
+        "Comment": "Fey Resistance",
+        "m_Features": [
+          "!bp_ae0ef197e1904464e9afe115334d4bca"
+        ]
+      },
+      {
+        "Comment": "WitchMajorHex, WitchGrandHex",
+        "m_Features": [
+          "!bp_8ac781b33e380c84aa578f1b006dd6c5",
+          "!bp_d24c2467804ce0e4497d9978bafec1f9"
+        ]
+      },
+      {
+        "Comment": "Weapon Finesse, Finesse Training",
+        "m_Features": [
+          "!bp_90e54424d682d104ab36436bd527af09",
+          "!bp_b78d146cea711a84598f0acef69462ea"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeatureRankIncrease": null
+  }
+}

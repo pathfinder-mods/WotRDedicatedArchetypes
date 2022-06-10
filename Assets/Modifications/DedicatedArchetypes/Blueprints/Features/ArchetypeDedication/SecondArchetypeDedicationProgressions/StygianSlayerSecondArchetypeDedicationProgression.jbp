@@ -1,0 +1,255 @@
+{
+  "AssetId": "f2138c0590ae4749892bd2084788fa67",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$e3343d01-641a-412e-b750-e00d39f8e55d",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_299aa766dee3cbf4790da4efb8c72484"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$73030495-f5f0-4191-b7b9-fbe16379c094",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_c75e0971973957d4dbad24bc7957e4fb"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$fc7f06b8-912a-488f-841a-13c8be67f2d0",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_e186407dda2a4f20a4647130df3429bd"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$176e3558-ea7d-474b-bdd3-aec34f659fd3",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_ffb3ab9de17c44199aa4f133d823d738"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$39d6770c-031f-4293-a888-7a44bbf9daa2",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_5309dc30621f4bd392b4e285b7e39d15"
+      }
+    ],
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "StygianSlayerArchetypeDedicationProgression_Name",
+      "m_OwnerString": "f2138c0590ae4749892bd2084788fa67",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "StygianSlayerArchetypeDedicationProgression_Description",
+      "m_OwnerString": "f2138c0590ae4749892bd2084788fa67",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "afbc090cc9c57714bbb4e24f09e1d06d",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "Dedication"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": true,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 8,
+        "Comment": "Study Target",
+        "m_Features": [
+          "!bp_09bdd9445ac38044389476689ae8d5a1"
+        ]
+      },
+      {
+        "Level": 9,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 10,
+        "Comment": "Invisibility",
+        "m_Features": [
+          "!bp_c38720e9140d5b34f8f22b25c23168a9"
+        ]
+      },
+      {
+        "Level": 11,
+        "Comment": "Study Target",
+        "m_Features": [
+          "!bp_09bdd9445ac38044389476689ae8d5a1"
+        ]
+      },
+      {
+        "Level": 12,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 13,
+        "Comment": "Fast Study Target, Slayers Advance",
+        "m_Features": [
+          "!bp_40d4f55a5ac0e4f469d67d36c0dfc40b",
+          "!bp_758e04f4568ec3f4c8d1fd83aed06fb9"
+        ]
+      },
+      {
+        "Level": 14,
+        "Comment": "Quarry",
+        "m_Features": [
+          "!bp_385260ca07d5f1b4e907ba22a02944fc"
+        ]
+      },
+      {
+        "Level": 15,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 16,
+        "Comment": "Study Target, Shadowy Mist Form Fact, Shadowy Mist Form",
+        "m_Features": [
+          "!bp_09bdd9445ac38044389476689ae8d5a1",
+          "!bp_24a6043f1b59da04d9b11fa5c3c79e35",
+          "!bp_bed2f82519a10214ca023c5961e0c436"
+        ]
+      },
+      {
+        "Level": 17,
+        "Comment": "Slayers Advance Increase",
+        "m_Features": [
+          "!bp_f4df3231977753d4ebd2ceb2ef5901ed"
+        ]
+      },
+      {
+        "Level": 18,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 19,
+        "Comment": "Improved Quarry",
+        "m_Features": [
+          "!bp_25e009b7e53f86141adee3a1213af5af"
+        ]
+      },
+      {
+        "Level": 20,
+        "Comment": "Study Target, Master Slayer",
+        "m_Features": [
+          "!bp_09bdd9445ac38044389476689ae8d5a1",
+          "!bp_a26c0279a423fc94cabeea898f4d9f8a"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "Comment": "Study Target, Fast Study Target",
+        "m_Features": [
+          "!bp_09bdd9445ac38044389476689ae8d5a1",
+          "!bp_40d4f55a5ac0e4f469d67d36c0dfc40b"
+        ]
+      },
+      {
+        "Comment": "Sneak Attack, Master Slayer",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
+          "!bp_a26c0279a423fc94cabeea898f4d9f8a"
+        ]
+      },
+      {
+        "Comment": "Invisibility, Shadowy Mist Form",
+        "m_Features": [
+          "!bp_c38720e9140d5b34f8f22b25c23168a9",
+          "!bp_bed2f82519a10214ca023c5961e0c436"
+        ]
+      },
+      {
+        "Comment": "Slayers Advance, Slayers Advance Increase",
+        "m_Features": [
+          "!bp_758e04f4568ec3f4c8d1fd83aed06fb9",
+          "!bp_f4df3231977753d4ebd2ceb2ef5901ed"
+        ]
+      },
+      {
+        "Comment": "Quarry, Improved Quarry",
+        "m_Features": [
+          "!bp_385260ca07d5f1b4e907ba22a02944fc",
+          "!bp_25e009b7e53f86141adee3a1213af5af"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeatureRankIncrease": null
+  }
+}

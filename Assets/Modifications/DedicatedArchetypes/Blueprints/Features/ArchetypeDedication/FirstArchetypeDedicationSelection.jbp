@@ -50,7 +50,13 @@
     "Ranks": 1,
     "ReapplyOnLevelUp": false,
     "IsClassFeature": true,
-    "IsPrerequisiteFor": [],
+    "IsPrerequisiteFor": [
+      "!bp_5309dc30621f4bd392b4e285b7e39d15",
+      "!bp_34d0592960a249508241e6699d28dcf5",
+      "!bp_ffb3ab9de17c44199aa4f133d823d738",
+      "!bp_e186407dda2a4f20a4647130df3429bd",
+      "!bp_92156e5133564ccda095840cc351789b"
+    ],
     "IgnorePrerequisites": false,
     "Obligatory": false,
     "Mode": "Default",
@@ -58,6 +64,11 @@
     "Group2": "None",
     "m_Features": [],
     "m_AllFeatures": [
+      "!bp_5309dc30621f4bd392b4e285b7e39d15",
+      "!bp_34d0592960a249508241e6699d28dcf5",
+      "!bp_ffb3ab9de17c44199aa4f133d823d738",
+      "!bp_e186407dda2a4f20a4647130df3429bd",
+      "!bp_92156e5133564ccda095840cc351789b"
     ]
   }
 }

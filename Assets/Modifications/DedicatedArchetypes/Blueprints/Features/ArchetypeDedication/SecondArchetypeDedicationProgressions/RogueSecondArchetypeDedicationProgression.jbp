@@ -1,0 +1,253 @@
+{
+  "AssetId": "edb80ec0556a445fb458b21d98cc5f35",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$fd1b6014-3c4d-4ec8-a940-4681e0154cc6",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_299aa766dee3cbf4790da4efb8c72484"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$413a86bb-be10-4264-8b05-d381e049eaea",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_c75e0971973957d4dbad24bc7957e4fb"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$12582899-30c0-4f74-b2d8-e35811d42eae",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_5309dc30621f4bd392b4e285b7e39d15"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$098deb0a-5344-4057-b6f6-dace3da924bb",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_34d0592960a249508241e6699d28dcf5"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$7f969eee-1a3b-4e2c-bab1-5372eccdff69",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_ffb3ab9de17c44199aa4f133d823d738"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$3fe70d47-23d9-46b9-928c-fefdd8b8b41b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_e186407dda2a4f20a4647130df3429bd"
+      }
+    ],
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "RogueArchetypeDedicationProgression_Name",
+      "m_OwnerString": "edb80ec0556a445fb458b21d98cc5f35",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "RogueArchetypeDedicationProgression_Description",
+      "m_OwnerString": "edb80ec0556a445fb458b21d98cc5f35",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "02ef137cda22e9b4aa9af681fba45909",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "Dedication"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": true,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 8,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93",
+          "!bp_90e54424d682d104ab36436bd527af09"
+        ]
+      },
+      {
+        "Level": 9,
+        "Comment": "Sneak Attack, Finesse Training",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
+          "!bp_b78d146cea711a84598f0acef69462ea"
+        ]
+      },
+      {
+        "Level": 10,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 11,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 12,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 13,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 14,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 15,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 16,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 17,
+        "Comment": "Sneak Attack, Finesse Training",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
+          "!bp_b78d146cea711a84598f0acef69462ea"
+        ]
+      },
+      {
+        "Level": 18,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 19,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 20,
+        "Comment": "Master Strike, Rogue Talents",
+        "m_Features": [
+          "!bp_72dcf1fb106d5054a81fd804fdc168d3",
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "Comment": "Master Strike, Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
+          "!bp_72dcf1fb106d5054a81fd804fdc168d3"
+        ]
+      },
+      {
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Comment": "Finesse Training",
+        "m_Features": [
+          "!bp_b78d146cea711a84598f0acef69462ea",
+          "!bp_90e54424d682d104ab36436bd527af09"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeatureRankIncrease": null
+  }
+}

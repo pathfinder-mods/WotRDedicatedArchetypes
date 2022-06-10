@@ -41,7 +41,7 @@
     },
     {
       "Key": "ArchetypeDedicationProgression_Description",
-      "Value": ""
+      "Value": "Der Charakter kann im Laufe der Zeit die Fähigkeiten einiger Archetypen erlernen."
     },
     {
       "Key": "SpecialDedicationProgression_Name",
@@ -50,6 +50,45 @@
     {
       "Key": "SpecialDedicationProgression_Description",
       "Value": ""
+    {
+      "Key": "FighterArchetypeDedicationProgression_Name",
+      "Value": "Begabung zum Kämpfer"
+    },
+    {
+      "Key": "FighterArchetypeDedicationProgression_Description",
+      "Value": "Der Charakter erhält Rüstungs- und Waffentraining sowie die Bonuskampftalente eines Kämpfers."
+    },
+    {
+      "Key": "RogueArchetypeDedicationProgression_Name",
+      "Value": "Begabung zum Schurken"
+    },
+    {
+      "Key": "RogueArchetypeDedicationProgression_Description",
+      "Value": "Der Charakter erhält Zugriff auf Schurkenkniffe, die Fähigkeit zum hinterhältigen Angriff und Waffenfinessetraining."
+    },
+    {
+      "Key": "SylvanTricksterArchetypeDedicationProgression_Name",
+      "Value": "Begabung zum Sylvanischen Trickser"
+    },
+    {
+      "Key": "SylvanTricksterArchetypeDedicationProgression_Description",
+      "Value": "Der Charakter erhält Zugriff auf die Kniffe der Sylvanischen Trickster, Gefahreninstinkt, Feenwiderstand und Waffenfinessetraining."
+    },
+    {
+      "Key": "SlayerArchetypeDedicationProgression_Name",
+      "Value": "Begabung zum Attentäter"
+    },
+    {
+      "Key": "SlayerArchetypeDedicationProgression_Description",
+      "Value": "Der Charakter erhält Zugriff auf Attentätertricks und die Fähigkeiten Feind Studieren und Hinterhältiger Angriff."
+    },
+    {
+      "Key": "StygianSlayerArchetypeDedicationProgression_Name",
+      "Value": "Begabung zum Schattenmörder"
+    },
+    {
+      "Key": "StygianSlayerArchetypeDedicationProgression_Description",
+      "Value": "Der Charakter erhält Zugriff auf die Fähigkeiten Feind Studieren, Hinterhältiger Angriff und Beute des Schattenmörders."
     },
 
 

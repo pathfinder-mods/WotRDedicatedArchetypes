@@ -1,0 +1,253 @@
+{
+  "AssetId": "5309dc30621f4bd392b4e285b7e39d15",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$db99dd03-3f9d-4c78-ad4c-597ce07cd6ee",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_299aa766dee3cbf4790da4efb8c72484"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$a55a9c85-99c6-4d71-90a7-3e6f47d3750e",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_c75e0971973957d4dbad24bc7957e4fb"
+      }
+    ],
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "RogueArchetypeDedicationProgression_Name",
+      "m_OwnerString": "5309dc30621f4bd392b4e285b7e39d15",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "RogueArchetypeDedicationProgression_Description",
+      "m_OwnerString": "5309dc30621f4bd392b4e285b7e39d15",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "02ef137cda22e9b4aa9af681fba45909",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "Dedication"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": true,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "Comment": "Sneak Attack, Weapon Finesse, Trap Finding",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
+          "!bp_90e54424d682d104ab36436bd527af09",
+          "!bp_dbb6b3bffe6db3547b31c3711653838e"
+        ]
+      },
+      {
+        "Level": 2,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 3,
+        "Comment": "Sneak Attack, Finesse Training",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
+          "!bp_b78d146cea711a84598f0acef69462ea"
+        ]
+      },
+      {
+        "Level": 4,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 5,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 6,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 7,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 8,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 9,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 10,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 11,
+        "Comment": "Sneak Attack, Finesse Training",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
+          "!bp_b78d146cea711a84598f0acef69462ea"
+        ]
+      },
+      {
+        "Level": 12,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 13,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 14,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 15,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 16,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 17,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 18,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 19,
+        "Comment": "Sneak Attack, Finesse Training",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
+          "!bp_b78d146cea711a84598f0acef69462ea"
+        ]
+      },
+      {
+        "Level": 20,
+        "Comment": "Master Strike, Rogue Talents",
+        "m_Features": [
+          "!bp_72dcf1fb106d5054a81fd804fdc168d3",
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "Comment": "Sneak Attack, Master Strike",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
+          "!bp_72dcf1fb106d5054a81fd804fdc168d3"
+        ]
+      },
+      {
+        "Comment": "Rogue Talents, Trap Finding",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93",
+          "!bp_dbb6b3bffe6db3547b31c3711653838e"
+        ]
+      },
+      {
+        "Comment": "Weapon Finesse, Finesse Training",
+        "m_Features": [
+          "!bp_90e54424d682d104ab36436bd527af09",
+          "!bp_b78d146cea711a84598f0acef69462ea"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeatureRankIncrease": null
+  }
+}
