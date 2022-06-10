@@ -82,16 +82,19 @@
       {
         "Level": 1,
         "m_Features": [
+          "!bp_82aed73193da4510bee5c897897c00bd"
         ]
       },
       {
         "Level": 8,
         "m_Features": [
+          "!bp_f252f19ed138484a830307bbd0184e42"
         ]
       },
       {
         "Level": 15,
         "m_Features": [
+          "!bp_d21ec78756884f808cd5ba1725682e39"
         ]
       }
 
@@ -100,6 +103,9 @@
       {
         "Comment": "Archetype Dedication Selections",
         "m_Features": [
+          "!bp_82aed73193da4510bee5c897897c00bd",
+          "!bp_f252f19ed138484a830307bbd0184e42",
+          "!bp_d21ec78756884f808cd5ba1725682e39"
         ]
       }
     ],

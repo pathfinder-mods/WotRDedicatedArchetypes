@@ -1,0 +1,63 @@
+{
+  "AssetId": "f252f19ed138484a830307bbd0184e42",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$NoSelectionIfAlreadyHasFeature$d86f7718-2d82-41a8-8d8b-e072f1f5534d"
+    ],
+    "Components": [
+      {
+        "$type": "7e9c938c232d48a4eb8458e448cfff33, NoSelectionIfAlreadyHasFeature",
+        "name": "$NoSelectionIfAlreadyHasFeature$d86f7718-2d82-41a8-8d8b-e072f1f5534d",
+        "m_Overrides": [],
+        "AnyFeatureFromSelection": true,
+        "m_Features": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SecondArchetypeDedicationSelection_Name",
+      "m_OwnerString": "f252f19ed138484a830307bbd0184e42",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "ArchetypeDedicationSelection_Description",
+      "m_OwnerString": "f252f19ed138484a830307bbd0184e42",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "ad05c2b9c08927f47ad7236f6bacd11f",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "Dedication",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+    ]
+  }
+}

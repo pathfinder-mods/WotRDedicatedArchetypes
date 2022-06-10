@@ -66,6 +66,22 @@
       "Key": "DedicationSelection_Description",
       "Value": "Begabungen erlauben es, Fähigkeiten anderer Klassen und Archetypen zu erlernen. Es besteht die Möglichkeit, die Fähigkeiten spezieller Archetypen  zu erlernen oder im Laufe der Zeit spezialisierte Begabungen, ohne sich auf einen Archetyp festlegen zu müssen."
     },
+    {
+      "Key": "ArchetypeDedicationSelection_Description",
+      "Value": "Auf Level 1, 8 und 15 erhält der Charakter eine Archetypbegabung."
+    },
+    {
+      "Key": "FirstArchetypeDedicationSelection_Name",
+      "Value": "1. Archetypbegabung"
+    },
+    {
+      "Key": "SecondArchetypeDedicationSelection_Name",
+      "Value": "2. Archetypbegabung"
+    },
+    {
+      "Key": "ThirdArchetypeDedicationSelection_Name",
+      "Value": "3. Archetypbegabung"
+    },
 
 
 
