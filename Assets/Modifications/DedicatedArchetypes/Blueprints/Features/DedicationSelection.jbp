@@ -54,7 +54,7 @@
     "IgnorePrerequisites": false,
     "Obligatory": false,
     "Mode": "Default",
-    "Group": "Dedication",
+    "Group": "None",
     "Group2": "None",
     "m_Features": [
       "!bp_d0bc9501ae034fb1bc8ca6106672b838",

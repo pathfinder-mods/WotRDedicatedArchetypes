@@ -44,7 +44,7 @@
     "IgnorePrerequisites": false,
     "Obligatory": false,
     "Mode": "Default",
-    "Group": "Dedication",
+    "Group": "None",
     "Group2": "None",
     "m_Features": [],
     "m_AllFeatures": [

@@ -113,9 +113,7 @@
     "HideInUI": false,
     "HideInCharacterSheetAndLevelUp": false,
     "HideNotAvailibleInUI": false,
-    "Groups": [
-      "Dedication"
-    ],
+    "Groups": [],
     "Ranks": 1,
     "ReapplyOnLevelUp": false,
     "IsClassFeature": true,
