@@ -49,14 +49,17 @@
     "Groups": [],
     "Ranks": 1,
     "ReapplyOnLevelUp": false,
-    "IsClassFeature": true,
+    "IsClassFeature": false,
     "IsPrerequisiteFor": [],
     "IgnorePrerequisites": false,
     "Obligatory": false,
     "Mode": "Default",
     "Group": "Dedication",
     "Group2": "None",
-    "m_Features": [],
+    "m_Features": [
+      "!bp_d0bc9501ae034fb1bc8ca6106672b838",
+      "!bp_85ccf750c2c14b74bdfe0d7ff67bb5c5"
+    ],
     "m_AllFeatures": [
       "!bp_d0bc9501ae034fb1bc8ca6106672b838",
       "!bp_85ccf750c2c14b74bdfe0d7ff67bb5c5"

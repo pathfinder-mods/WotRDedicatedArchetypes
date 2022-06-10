@@ -3,18 +3,8 @@
   "Data": {
     "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
     "PrototypeLink": null,
-    "m_Overrides": [
-      "$NoSelectionIfAlreadyHasFeature$02f770ab-5562-434a-8d48-15b26f894d74"
-    ],
-    "Components": [
-      {
-        "$type": "7e9c938c232d48a4eb8458e448cfff33, NoSelectionIfAlreadyHasFeature",
-        "name": "$NoSelectionIfAlreadyHasFeature$02f770ab-5562-434a-8d48-15b26f894d74",
-        "m_Overrides": [],
-        "AnyFeatureFromSelection": true,
-        "m_Features": []
-      }
-    ],
+    "m_Overrides": [],
+    "Components": [],
     "Comment": "",
     "m_AllowNonContextActions": false,
     "m_DisplayName": {
@@ -49,7 +39,7 @@
     "Groups": [],
     "Ranks": 1,
     "ReapplyOnLevelUp": false,
-    "IsClassFeature": true,
+    "IsClassFeature": false,
     "IsPrerequisiteFor": [
     ],
     "IgnorePrerequisites": false,
