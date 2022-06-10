@@ -1,0 +1,269 @@
+{
+  "AssetId": "45588897b3354bfc93e02ff851392199",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": "3309db585aea4af49bedebe60976d037",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "0a53ee09075a237408f1347648c1e91a, AddFeatureOnApply",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnApply$869bfe89-f97c-4a47-b60d-74577b5e5f8a(SneakAttackDedication)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "!bp_13daa73b4a24405ead8e64102866d1f6"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$ec96c1c8-65d3-4aee-a919-490a532c5c86(Rouge)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_299aa766dee3cbf4790da4efb8c72484"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$64f7448b-c7f0-4075-be0a-bc7e6b27e9e7(Slayer)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_c75e0971973957d4dbad24bc7957e4fb"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$e949a60a-d598-43a2-8815-1878c17f64e2(ArcaneTrickster)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_9c935a076d4fe4d4999fd48d853e3cf3"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$5f22706f-2247-43d4-a3aa-4b0a68dd0a4d(Assassin)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_eb284ea8d40a2d045911f525eb96c43d"
+      },
+
+
+      {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$7a48f537-8f02-4ad5-80da-7ac41d3053ef(Alchemist(Vivisectionist))(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_0937bec61c0dabc468428f496580c721",
+        "m_Archetype": "!bp_68cbcd9fbf1fb1d489562f829bb97e38"
+      },
+      {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$7a48f537-8f02-4ad5-80da-7ac41d3053ef(Inquisitor(SanctifiedSlayer))(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_f1a70d9e1b0b41e49874e1fa9052a1ce",
+        "m_Archetype": "!bp_19b4a243d9a4bd34887d03c3dea03ced"
+      },
+      {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$5abbe12b-03ee-478b-acc5-8c7875d52466(Warpriest(CultLeader))(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_30b5e47d47a0e37438cc5a80c96cfb99",
+        "m_Archetype": "!bp_cd2d419961bb019438b77d4aecc2fc04"
+      },
+      {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$7a8e5e86-115f-40b2-b92c-a88f9d01c6c2(Paladin(DivineScion))(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_bfa11238e7ae3544bbeb4d0b92e897ec",
+        "m_Archetype": "!bp_5ce3a2f8eae64cf2ba83865711e53e27"
+      },
+      {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype(Shaman(ShadowShaman))(Clone3)",
+        "name": "$PrerequisiteNoArchetype$7c9f6d92-f0b7-475f-97c0-556f5faaeb3b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_145f1d3d360a7ad48bd95d392c81b38e",
+        "m_Archetype": "!bp_5086aef2b76c433584160f7b49aef95b"
+      },
+
+
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$9ae9a5d6-83f2-4536-9f45-12238a4bbae2(SneakAttack)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$64a0c847-dbf8-4055-9c3f-d1efc438f414(SneakAttackDedication)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_13daa73b4a24405ead8e64102866d1f6"
+      }
+    ],
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SneakAttackDedicationProgression_Name",
+      "m_OwnerString": "45588897b3354bfc93e02ff851392199",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "SneakAttackDedicationProgression_Description",
+      "m_OwnerString": "45588897b3354bfc93e02ff851392199",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "02ef137cda22e9b4aa9af681fba45909",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": true,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 7,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 9,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 11,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 13,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 15,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 17,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+      {
+        "Level": 19,
+        "Comment": "Sneak Attack",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      }
+    ],
+    "UIGroups": [],
+    "Comment": "",
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeatureRankIncrease": null
+  }
+}

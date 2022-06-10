@@ -1,0 +1,241 @@
+{
+  "AssetId": "32554127979a45ef9124dc7fa51584af",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "0a53ee09075a237408f1347648c1e91a, AddFeatureOnApply",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnApply$869bfe89-f97c-4a47-b60d-74577b5e5f8a(RougeTalents)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "!bp_4743a6582a554442b79d48a69fd6a934"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$1ef74f31-3120-40a1-b00a-9a46146d35ff(Rouge)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_299aa766dee3cbf4790da4efb8c72484"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$e9b53a2c-3ac3-498c-850b-da9fcbde698a(Slayer)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_c75e0971973957d4dbad24bc7957e4fb"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$e442463b-c111-4990-bdc2-029cd9f9c37f(Bard)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_772c83a25e2268e448e841dcd548235f"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$a9a25b24-714f-432b-8a4e-df6376e5d961(Skald)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_6afa347d804838b48bda16acb0573dc0"
+      },
+
+
+      {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$99b8c70e-214d-485f-997e-eab970ce6552(Inquisitor(SanctifiedSlayer))(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_f1a70d9e1b0b41e49874e1fa9052a1ce",
+        "m_Archetype": "!bp_19b4a243d9a4bd34887d03c3dea03ced"
+      },
+
+
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$ba3eeb26-45f6-4c5e-9877-356bc71dba6c(RougeTalents)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_4743a6582a554442b79d48a69fd6a934"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$9270a0f3-7889-4a2a-a30f-7ab232f45f08(SlayerTalents)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_16ddc95f685f4cbc936d281d56c7da7c"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$248760e3-e539-48bb-96ec-7af6b514f8de(SylvanTricksterTalents)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_9bdb8f8f33344f47831b62991c1d2a79"
+      }
+    ],
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "RogueTalentsDedicationProgression_Name",
+      "m_OwnerString": "32554127979a45ef9124dc7fa51584af",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "RogueTalentsDedicationProgression_Description",
+      "m_OwnerString": "32554127979a45ef9124dc7fa51584af",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "ed9b1a97cb614b44883755a04df47351",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": true,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "Comment": "Trap Finding",
+        "m_Features": [
+          "!bp_dbb6b3bffe6db3547b31c3711653838e"
+        ]
+      },
+      {
+        "Level": 8,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 10,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 12,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 14,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 16,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 18,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 20,
+        "Comment": "Rogue Talents",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "Comment": "Rogue Talents, Trap Finding",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93",
+          "!bp_dbb6b3bffe6db3547b31c3711653838e"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": true,
+    "m_FeatureRankIncrease": null
+  }
+}

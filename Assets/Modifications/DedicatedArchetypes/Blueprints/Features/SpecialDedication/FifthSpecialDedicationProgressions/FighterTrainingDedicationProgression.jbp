@@ -1,0 +1,141 @@
+{
+  "AssetId": "14953fa2115247f5a46e412e2b062dd5",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "0a53ee09075a237408f1347648c1e91a, AddFeatureOnApply",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnApply$e192b5d1-0dc6-4218-830b-8e1d19a3bf92(FighterTrainingDedication)(Clone5)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "!bp_09124902830f4529a20b2c8b54aeac68"
+      },
+
+
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$8da6dd9f-7b98-4928-9467-8c51de698968(Fighter)(Clone5)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_48ac8db94d5de7645906c7d0ad3bcfbd"
+      },
+
+
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$4e7c398d-79e8-4297-ad11-112809cd26a3(FighterTrainingDedication)(Clone5)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_09124902830f4529a20b2c8b54aeac68"
+      }
+    ],
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "FighterTrainingDedicationProgression_Name",
+      "m_OwnerString": "14953fa2115247f5a46e412e2b062dd5",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "FighterTrainingDedicationProgression_Description",
+      "m_OwnerString": "14953fa2115247f5a46e412e2b062dd5",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "681734e59fe8acd4e8fc2b3ae745726f",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": true,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 13,
+        "Comment": "Weapon Training",
+        "m_Features": [
+          "!bp_b8cecf4e5e464ad41b79d5b42b76b399"
+        ]
+      },
+      {
+        "Level": 15,
+        "Comment": "Armor Training",
+        "m_Features": [
+          "!bp_3c380607706f209499d951b29d3c44f3"
+        ]
+      },
+      {
+        "Level": 17,
+        "Comment": "Weapon Training",
+        "m_Features": [
+          "!bp_b8cecf4e5e464ad41b79d5b42b76b399"
+        ]
+      },
+      {
+        "Level": 19,
+        "Comment": "Armor Training",
+        "m_Features": [
+          "!bp_3c380607706f209499d951b29d3c44f3"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "Comment": "Armor Training, Armor Mastery",
+        "m_Features": [
+          "!bp_3c380607706f209499d951b29d3c44f3",
+          "!bp_ae177f17cfb45264291d4d7c2cb64671"
+        ]
+      },
+      {
+        "Comment": "Weapon Training, Weapon Mastery",
+        "m_Features": [
+          "!bp_b8cecf4e5e464ad41b79d5b42b76b399",
+          "!bp_55f516d7d1fc5294aba352a5a1c92786"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeatureRankIncrease": null
+  }
+}

@@ -47,8 +47,27 @@
     "Mode": "Default",
     "Group": "None",
     "Group2": "None",
-    "m_Features": [],
+    "m_Features": [
+      "!bp_ce664356aab04d7288bcc1efc212918f",
+      "!bp_1b86008015bc498eab3ec4be980124c9",
+      "!bp_32554127979a45ef9124dc7fa51584af",
+      "!bp_44cd5568f1af45da89888c62e7dfd300",
+      "!bp_45588897b3354bfc93e02ff851392199",
+      "!bp_22291d15061c46df9f230ac3133ade6e",
+      "!bp_da20339379214f28be7893eb79d0dadb",
+      "!bp_1cd0e0911f284177a277afa30fdf1051",
+      "!bp_972bfeb0c0c541f28f3b84d5ec286eda"
+    ],
     "m_AllFeatures": [
+      "!bp_ce664356aab04d7288bcc1efc212918f",
+      "!bp_1b86008015bc498eab3ec4be980124c9",
+      "!bp_32554127979a45ef9124dc7fa51584af",
+      "!bp_44cd5568f1af45da89888c62e7dfd300",
+      "!bp_45588897b3354bfc93e02ff851392199",
+      "!bp_22291d15061c46df9f230ac3133ade6e",
+      "!bp_da20339379214f28be7893eb79d0dadb",
+      "!bp_1cd0e0911f284177a277afa30fdf1051",
+      "!bp_972bfeb0c0c541f28f3b84d5ec286eda"
     ]
   }
 }

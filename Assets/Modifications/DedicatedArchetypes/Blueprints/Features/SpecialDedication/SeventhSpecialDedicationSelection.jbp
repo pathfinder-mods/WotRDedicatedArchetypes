@@ -47,8 +47,25 @@
     "Mode": "Default",
     "Group": "None",
     "Group2": "None",
-    "m_Features": [],
+    "m_Features": [
+      "!bp_5902eb417e9049868acf1407522523cc",
+      "!bp_f4bfe2eb4bc4470ebeac10bdd5d36f4c",
+      "!bp_e6a24516498c417fbf693969d0e9d14b",
+      "!bp_65d21f2be4e243fb93654cde72ccfb3e",
+      "!bp_6e65fcd64d5a4e369a058bf92f655042",
+      "!bp_da20339379214f28be7893eb79d0dadb",
+      "!bp_9ba097b74103437499fc27b8fe8c8bee",
+      "!bp_4acf0dac499d475da5c14f07994926db"
+    ],
     "m_AllFeatures": [
+      "!bp_5902eb417e9049868acf1407522523cc",
+      "!bp_f4bfe2eb4bc4470ebeac10bdd5d36f4c",
+      "!bp_e6a24516498c417fbf693969d0e9d14b",
+      "!bp_65d21f2be4e243fb93654cde72ccfb3e",
+      "!bp_6e65fcd64d5a4e369a058bf92f655042",
+      "!bp_da20339379214f28be7893eb79d0dadb",
+      "!bp_9ba097b74103437499fc27b8fe8c8bee",
+      "!bp_4acf0dac499d475da5c14f07994926db"
     ]
   }
 }

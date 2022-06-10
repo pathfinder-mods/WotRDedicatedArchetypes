@@ -1,0 +1,127 @@
+{
+  "AssetId": "972bfeb0c0c541f28f3b84d5ec286eda",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "0a53ee09075a237408f1347648c1e91a, AddFeatureOnApply",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnApply$(WeaponFinesseDedication)(Clone2)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "!bp_e7c068511b1c4b11afa5c41746aab8b4"
+      },
+
+
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$38beee7a-d5df-4540-a380-eb45351ffe7c(Rouge)(Clone2)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_299aa766dee3cbf4790da4efb8c72484"
+      },
+
+
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$(WeaponFinesseDedication)(Clone2)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_e7c068511b1c4b11afa5c41746aab8b4"
+      }
+    ],
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "WeaponFinesseDedicationProgression_Name",
+      "m_OwnerString": "972bfeb0c0c541f28f3b84d5ec286eda",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "WeaponFinesseDedicationProgression_Description",
+      "m_OwnerString": "972bfeb0c0c541f28f3b84d5ec286eda",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "8caa05fdede890c47819c45ccfa0380a",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": true,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "Comment": "Weapon Finesse",
+        "m_Features": [
+          "!bp_90e54424d682d104ab36436bd527af09"
+        ]
+      },
+      {
+        "Level": 11,
+        "Comment": "Finesse Training",
+        "m_Features": [
+          "!bp_b78d146cea711a84598f0acef69462ea"
+        ]
+      },
+      {
+        "Level": 19,
+        "Comment": "Finesse Training",
+        "m_Features": [
+          "!bp_b78d146cea711a84598f0acef69462ea"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "Comment": "Weapon Finesse, Finesse Training",
+        "m_Features": [
+          "!bp_90e54424d682d104ab36436bd527af09",
+          "!bp_b78d146cea711a84598f0acef69462ea"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": true,
+    "m_FeatureRankIncrease": null
+  }
+}

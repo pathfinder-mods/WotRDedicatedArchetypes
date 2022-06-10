@@ -1,0 +1,265 @@
+{
+  "AssetId": "1cd0e0911f284177a277afa30fdf1051",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "0a53ee09075a237408f1347648c1e91a, AddFeatureOnApply",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnApply$965bb1b4-495c-4104-afd1-4b739e35e5e7(SylvanTricksterTalentsDedication)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "!bp_0f67a56073a94eb78bebe942ec271045"
+      },
+
+
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$c17bc2cf-bd45-44f1-9815-b5d7080aabdd(Rouge)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_299aa766dee3cbf4790da4efb8c72484"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$89887c05-f029-4d87-afdc-b7dceec43948(Slayer)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_c75e0971973957d4dbad24bc7957e4fb"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$4805dcde-242e-42b4-bf28-b620b6be3b79(Bard)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_772c83a25e2268e448e841dcd548235f"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$2d9afbbe-97d6-47e3-8b21-931cda3683e2(Skald)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_6afa347d804838b48bda16acb0573dc0"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$379f782b-cf53-4fe8-bcb7-3f095f13c4aa(Witch)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_1b9873f1e7bfe5449bc84d03e9c8e3cc"
+      },
+
+
+      {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$c3d1bb79-84b2-460a-ba6b-720815115f3d(Inquisitor(SanctifiedSlayer))(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_f1a70d9e1b0b41e49874e1fa9052a1ce",
+        "m_Archetype": "!bp_19b4a243d9a4bd34887d03c3dea03ced"
+      },
+
+
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$944f821f-c162-48dd-8b2f-28b11d7ab01a(RougeTalentsDedication)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_4743a6582a554442b79d48a69fd6a934"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$d34a6648-0468-49a0-8dc7-1108e9e8ad27(SlayerTalentsDedication)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_16ddc95f685f4cbc936d281d56c7da7c"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$86bb8bbe-239c-4ced-95be-f5f4689cdbc9(SylvanTricksterTalentsDedication)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_0f67a56073a94eb78bebe942ec271045"
+      }
+    ],
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SylvanTricksterTalentsDedicationProgression_Name",
+      "m_OwnerString": "1cd0e0911f284177a277afa30fdf1051",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "SylvanTricksterTalentsDedicationProgression_Description",
+      "m_OwnerString": "1cd0e0911f284177a277afa30fdf1051",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "d4960a0f7e7cc6843bf6d675985fd381",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": true,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "Comment": "Trap Finding",
+        "m_Features": [
+          "!bp_dbb6b3bffe6db3547b31c3711653838e"
+        ]
+      },
+      {
+        "Level": 8,
+        "Comment": "Sylvan Trickster Talents",
+        "m_Features": [
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452"
+        ]
+      },
+      {
+        "Level": 10,
+        "Comment": "Sylvan Trickster Talents, WitchMajorHex",
+        "m_Features": [
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452",
+          "!bp_8ac781b33e380c84aa578f1b006dd6c5"
+        ]
+      },
+      {
+        "Level": 12,
+        "Comment": "Sylvan Trickster Talents",
+        "m_Features": [
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452"
+        ]
+      },
+      {
+        "Level": 14,
+        "Comment": "Sylvan Trickster Talents",
+        "m_Features": [
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452"
+        ]
+      },
+      {
+        "Level": 16,
+        "Comment": "Sylvan Trickster Talents",
+        "m_Features": [
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452"
+        ]
+      },
+      {
+        "Level": 18,
+        "Comment": "Sylvan Trickster Talents, WitchGrandHex",
+        "m_Features": [
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452",
+          "!bp_d24c2467804ce0e4497d9978bafec1f9"
+        ]
+      },
+      {
+        "Level": 20,
+        "Comment": "Sylvan Trickster Talents",
+        "m_Features": [
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "Comment": "Sylvan Trickster Talents, Trap Finding",
+        "m_Features": [
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452",
+          "!bp_dbb6b3bffe6db3547b31c3711653838e"
+        ]
+      },
+      {
+        "Comment": "WitchMajorHex, WitchGrandHex",
+        "m_Features": [
+          "!bp_8ac781b33e380c84aa578f1b006dd6c5",
+          "!bp_d24c2467804ce0e4497d9978bafec1f9"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": true,
+    "m_FeatureRankIncrease": null
+  }
+}

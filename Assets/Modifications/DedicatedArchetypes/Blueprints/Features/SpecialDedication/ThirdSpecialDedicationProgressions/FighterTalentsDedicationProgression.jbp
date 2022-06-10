@@ -1,0 +1,183 @@
+{
+  "AssetId": "ce664356aab04d7288bcc1efc212918f",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "0a53ee09075a237408f1347648c1e91a, AddFeatureOnApply",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnApply$b78d255d-ce37-4093-aaf1-7a81d3b9382c(FighterTalentsDedication)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "!bp_18e7e0015020440ab308a3b3716849f9"
+      },
+
+
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$afd805e8-dde6-44da-a72b-d89cb50ddb3c(Fighter)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_48ac8db94d5de7645906c7d0ad3bcfbd"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$8da6dd9f-7b98-4928-9467-8c51de698968(Warpriest)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_30b5e47d47a0e37438cc5a80c96cfb99"
+      },
+
+
+      {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$dadc1935-ddaa-433d-9c97-52028b0a13ea(Cavalier(Gendarme))(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_3adc3439f98cb534ba98df59838f02c7",
+        "m_Archetype": "!bp_48fd69254e9e5c540bd65101d3252184"
+      },
+      
+      
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$96c05d8d-3a6b-4033-8741-81363ea2fcce(FighterTalentsDedication)(Clone3)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_18e7e0015020440ab308a3b3716849f9"
+      }
+    ],
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "FighterTalentsDedicationProgression_Name",
+      "m_OwnerString": "ce664356aab04d7288bcc1efc212918f",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "FighterTalentsDedicationProgression_Description",
+      "m_OwnerString": "ce664356aab04d7288bcc1efc212918f",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "f68f95de7b3199d49ad78bc0098efe92",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": true,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 8,
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Level": 10,
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Level": 12,
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Level": 14,
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Level": 16,
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Level": 18,
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      },
+      {
+        "Level": 20,
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "Comment": "Fighter Feature",
+        "m_Features": [
+          "!bp_41c8486641f7d6d4283ca9dae4147a9f"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeatureRankIncrease": null
+  }
+}

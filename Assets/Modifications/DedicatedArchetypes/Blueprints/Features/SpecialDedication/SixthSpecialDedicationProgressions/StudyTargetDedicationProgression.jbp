@@ -1,0 +1,143 @@
+{
+  "AssetId": "6e65fcd64d5a4e369a058bf92f655042",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "0a53ee09075a237408f1347648c1e91a, AddFeatureOnApply",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnApply$af11d0f1-829d-46dc-995d-5dddc01b6857(StudyTargetDedication)(Clone6)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "!bp_e48514b75c4a45678c78ba689f21f831"
+      },
+
+
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$c110e551-3010-4e11-9e4b-e3246a1c973a(Slayer)(Clone6)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_c75e0971973957d4dbad24bc7957e4fb"
+      },
+      
+      
+      {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$bb97469b-3f6d-4c8a-a3d7-f4e60b5ca875(Paladin(DivineScion))(Clone6)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_bfa11238e7ae3544bbeb4d0b92e897ec",
+        "m_Archetype": "!bp_5ce3a2f8eae64cf2ba83865711e53e27"
+      },
+
+
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$a3c36ce9-cc4b-44bd-bc1f-cac147c8b0a2(StudyTargetDedication)(Clone6)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_e48514b75c4a45678c78ba689f21f831"
+      }
+    ],
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "StudyTargetDedicationProgression_Name",
+      "m_OwnerString": "6e65fcd64d5a4e369a058bf92f655042",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "StudyTargetDedicationProgression_Description",
+      "m_OwnerString": "6e65fcd64d5a4e369a058bf92f655042",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "534e7634a27b6f74a8773dfb82092da8",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": true,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "Comment": "Study Target",
+        "m_Features": [
+          "!bp_09bdd9445ac38044389476689ae8d5a1"
+        ]
+      },
+      {
+        "Level": 7,
+        "Comment": "Fast Study Target",
+        "m_Features": [
+          "!bp_40d4f55a5ac0e4f469d67d36c0dfc40b"
+        ]
+      },
+      {
+        "Level": 20,
+        "Comment": "Study Target",
+        "m_Features": [
+          "!bp_09bdd9445ac38044389476689ae8d5a1",
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "Comment": "Study Target, Fast Study Target",
+        "m_Features": [
+          "!bp_09bdd9445ac38044389476689ae8d5a1",
+          "!bp_40d4f55a5ac0e4f469d67d36c0dfc40b"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": true,
+    "m_FeatureRankIncrease": null
+  }
+}

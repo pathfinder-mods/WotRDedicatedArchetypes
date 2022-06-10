@@ -6,6 +6,14 @@
       "Value": "######################################################################"
     },
     {
+      "Key": "ArcanistDedicatedArchetype_Name",
+      "Value": "Begabter Arkanist"
+    },
+    {
+      "Key": "ArcanistDedicatedArchetype_Description",
+      "Value": "Begabter Arkanist"
+    },
+    {
       "Key": "CavalierDedicatedArchetype_Name",
       "Value": "Begabter Ritter"
     },
@@ -90,6 +98,86 @@
     {
       "Key": "StygianSlayerArchetypeDedicationProgression_Description",
       "Value": "Der Charakter erhält Zugriff auf die Fähigkeiten Feind Studieren, Hinterhältiger Angriff und Beute des Schattenmörders."
+    },
+    {
+      "Key": "FighterTalentsDedicationProgression_Name",
+      "Value": "Kämpfertalente"
+    },
+    {
+      "Key": "FighterTalentsDedicationProgression_Description",
+      "Value": ""
+    },
+    {
+      "Key": "FighterTrainingDedicationProgression_Name",
+      "Value": "Kampftraining"
+    },
+    {
+      "Key": "FighterTrainingDedicationProgression_Description",
+      "Value": ""
+    },
+    {
+      "Key": "RogueTalentsDedicationProgression_Name",
+      "Value": "Schurkentricks"
+    },
+    {
+      "Key": "RogueTalentsDedicationProgression_Description",
+      "Value": ""
+    },
+    {
+      "Key": "SlayerTalentsDedicationProgression_Name",
+      "Value": "Attentätertricks"
+    },
+    {
+      "Key": "SlayerTalentsDedicationProgression_Description",
+      "Value": ""
+    },
+    {
+      "Key": "SneakAttackDedicationProgression_Name",
+      "Value": "Hinterhältiger Angriff"
+    },
+    {
+      "Key": "SneakAttackDedicationProgression_Description",
+      "Value": ""
+    },
+    {
+      "Key": "StudyTargetDedicationProgression_Name",
+      "Value": "Feind studieren"
+    },
+    {
+      "Key": "StudyTargetDedicationProgression_Description",
+      "Value": ""
+    },
+    {
+      "Key": "StygianSlayerDedicationProgression_Name",
+      "Value": "Schattenmördertalente"
+    },
+    {
+      "Key": "StygianSlayerDedicationProgression_Description",
+      "Value": ""
+    },
+    {
+      "Key": "SylvanTricksterDedicationProgression_Name",
+      "Value": "Sylvanischer Trickser"
+    },
+    {
+      "Key": "SylvanTricksterDedicationProgression_Description",
+      "Value": ""
+    },
+    {
+      "Key": "SylvanTricksterTalentsDedicationProgression_Name",
+      "Value": "Tricks der Feenwesen"
+    },
+    {
+      "Key": "SylvanTricksterTalentsDedicationProgression_Description",
+      "Value": ""
+    },
+    {
+      "Key": "WeaponFinesseDedicationProgression_Name",
+      "Value": "Waffenfinesse"
+    },
+    {
+      "Key": "WeaponFinesseDedicationProgression_Description",
+      "Value": ""
     },
 
 
