@@ -10,3 +10,5 @@ Assets/PathfinderAssemblies*
 Assets/RenderPipeline/*
 !Assets/RenderPipeline/OwlcatShaders*
 !Assets/RenderPipeline/UnityShaders*
+/Assets/Modifications/Blueprints
+/Assets/Modifications/Blueprints.meta
