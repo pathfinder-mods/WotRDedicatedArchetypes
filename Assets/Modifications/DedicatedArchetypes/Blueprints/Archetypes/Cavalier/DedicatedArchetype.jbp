@@ -51,6 +51,13 @@
         "m_Features": [
           "!bp_fcccb785ebd749c0a1eb1292f8ab45d2"
         ]
+      },
+      {
+        "Level": 9,
+        "Comment": "Fighter Training",
+        "m_Features": [
+          "!bp_501b4ffba3894454878b2e5e1f06bd4f"
+        ]
       }
     ],
     "RemoveFeatures": [],

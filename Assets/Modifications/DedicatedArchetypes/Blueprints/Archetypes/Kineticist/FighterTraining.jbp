@@ -1,0 +1,60 @@
+{
+  "AssetId": "2cc58ed02d8c4305ad814f451c5d7e29",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$ClassLevelsForPrerequisites$0524a081-d049-439a-9ddd-0db61dcc7e84"
+    ],
+    "Components": [
+      {
+        "$type": "86d7ff021c671cf4cb46f7af20578222, ClassLevelsForPrerequisites",
+        "name": "$ClassLevelsForPrerequisites$0524a081-d049-439a-9ddd-0db61dcc7e84(Fighter)",
+        "m_Overrides": [],
+        "m_FakeClass": "!bp_48ac8db94d5de7645906c7d0ad3bcfbd",
+        "m_ActualClass": "!bp_42a455d9ec1ad924d889272429eb8391",
+        "Modifier": 1.0,
+        "Summand": 0
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "087b4c66-3555-45d9-ae04-80283f927d30",
+      "m_OwnerString": "2cc58ed02d8c4305ad814f451c5d7e29",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Magus/FighterTraining_m_DisplayName.json",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "5ba7086c60d714e4ba4d19ee090c941e",
+        "stringkey": "91a4a397-b50e-496e-83af-46cedee864dd"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "ef075f9e062a6464fa67961e33c9fd6b",
+      "fileid": 21300000
+    },
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": true,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}
