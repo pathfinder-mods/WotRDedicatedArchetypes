@@ -47,8 +47,15 @@
     "Mode": "Default",
     "Group": "None",
     "Group2": "None",
-    "m_Features": [],
+    "m_Features": [
+      "!bp_55f516d7d1fc5294aba352a5a1c92786",
+      "!bp_72dcf1fb106d5054a81fd804fdc168d3",
+      "!bp_a26c0279a423fc94cabeea898f4d9f8a"
+    ],
     "m_AllFeatures": [
+      "!bp_55f516d7d1fc5294aba352a5a1c92786",
+      "!bp_72dcf1fb106d5054a81fd804fdc168d3",
+      "!bp_a26c0279a423fc94cabeea898f4d9f8a"
     ]
   }
 }
