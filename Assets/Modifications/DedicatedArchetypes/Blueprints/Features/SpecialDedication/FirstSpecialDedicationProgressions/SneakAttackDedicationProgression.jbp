@@ -129,8 +129,8 @@
         "m_Archetype": "!bp_5ce3a2f8eae64cf2ba83865711e53e27"
       },
       {
-        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype(Shaman(ShadowShaman))",
-        "name": "$PrerequisiteNoArchetype$7c9f6d92-f0b7-475f-97c0-556f5faaeb3b",
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$7c9f6d92-f0b7-475f-97c0-556f5faaeb3b(Shaman(ShadowShaman))",
         "PrototypeLink": {
           "guid": "",
           "name": ""
