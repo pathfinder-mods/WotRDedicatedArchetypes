@@ -46,8 +46,19 @@
     "Mode": "Default",
     "Group": "None",
     "Group2": "None",
-    "m_Features": [],
+    "m_Features": [
+      "!bp_410595a679234e1b9bf2550c35d3a3e6",
+      "!bp_30d3bbb63fb14adb816a81a66862c765",
+      "!bp_0590254cde3f47b5b21b3b5e75b362c4",
+      "!bp_80d70ed7086c4b4cbbd7a24fb897a9ef",
+      "!bp_8f4bcc1310b14c8499a47a402c2a7afd"
+    ],
     "m_AllFeatures": [
+      "!bp_410595a679234e1b9bf2550c35d3a3e6",
+      "!bp_30d3bbb63fb14adb816a81a66862c765",
+      "!bp_0590254cde3f47b5b21b3b5e75b362c4",
+      "!bp_80d70ed7086c4b4cbbd7a24fb897a9ef",
+      "!bp_8f4bcc1310b14c8499a47a402c2a7afd"
     ]
   }
 }
