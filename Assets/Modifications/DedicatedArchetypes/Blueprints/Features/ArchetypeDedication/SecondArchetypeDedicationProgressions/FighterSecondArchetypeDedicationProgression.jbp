@@ -6,8 +6,21 @@
     "m_Overrides": [],
     "Components": [
       {
+        "$type": "0a53ee09075a237408f1347648c1e91a, AddFeatureOnApply",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnApply$d09ed1d7-e17c-4eb8-9ecf-e96d03e4c95c(FighterArchetypeDedication)(Clone2)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "!bp_bf5cdfd2be884b5093e5be02c319a646"
+      },
+
+
+      {
         "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
-        "name": "$PrerequisiteNoClassLevel$a5e27e63-6790-410f-962f-3770e7320eda",
+        "name": "$PrerequisiteNoClassLevel$9e731792-e803-46b1-8e62-00827787e044(Fighter)(Clone2)",
         "PrototypeLink": {
           "guid": "",
           "name": ""
@@ -18,9 +31,11 @@
         "HideInUI": false,
         "m_CharacterClass": "!bp_48ac8db94d5de7645906c7d0ad3bcfbd"
       },
+
+
       {
         "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
-        "name": "$PrerequisiteNoFeature$a225e68a-8571-4c99-89c6-9c0eae963cdb",
+        "name": "$PrerequisiteNoFeature$bb629d71-605c-4c9e-8672-d96761ccb880(FighterArchetypeDedication)(Clone2)",
         "PrototypeLink": {
           "guid": "",
           "name": ""
@@ -29,7 +44,7 @@
         "Group": "All",
         "CheckInProgression": false,
         "HideInUI": true,
-        "m_Feature": "!bp_92156e5133564ccda095840cc351789b"
+        "m_Feature": "!bp_bf5cdfd2be884b5093e5be02c319a646"
       }
     ],
     "m_AllowNonContextActions": false,

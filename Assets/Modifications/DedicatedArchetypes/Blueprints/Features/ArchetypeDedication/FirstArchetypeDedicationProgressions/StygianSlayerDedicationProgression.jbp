@@ -6,8 +6,21 @@
     "m_Overrides": [],
     "Components": [
       {
+        "$type": "0a53ee09075a237408f1347648c1e91a, AddFeatureOnApply",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnApply$e21bb06a-51f4-43ae-b44e-2c490fad5b6e(StygianSlayerArchetypeDedication)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "!bp_0a7f905a5d454d4289ddcad748de411a"
+      },
+
+
+      {
         "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
-        "name": "$PrerequisiteNoClassLevel$e3343d01-641a-412e-b750-e00d39f8e55d",
+        "name": "$PrerequisiteNoClassLevel$7c99ae1c-92c8-4a5b-a94d-56fc979cac32(Rouge)",
         "PrototypeLink": {
           "guid": "",
           "name": ""
@@ -20,7 +33,7 @@
       },
       {
         "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
-        "name": "$PrerequisiteNoClassLevel$73030495-f5f0-4191-b7b9-fbe16379c094",
+        "name": "$PrerequisiteNoClassLevel$67b05746-cca0-4775-9b18-cb0a94a94a81(Slayer)",
         "PrototypeLink": {
           "guid": "",
           "name": ""
@@ -30,6 +43,184 @@
         "CheckInProgression": false,
         "HideInUI": false,
         "m_CharacterClass": "!bp_c75e0971973957d4dbad24bc7957e4fb"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$477ec882-8128-441e-bbbf-baba93b4844f(Bard)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_772c83a25e2268e448e841dcd548235f"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$537a2df7-96f5-4b56-b196-f36d3653b5da(Skald)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_6afa347d804838b48bda16acb0573dc0"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$d56a9eed-a40c-4347-8a33-9b156fd51c0a(ArcaneTrickster)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_9c935a076d4fe4d4999fd48d853e3cf3"
+      },
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$7841221c-3958-4b16-9d90-59ef6e6464a1(Assassin)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_eb284ea8d40a2d045911f525eb96c43d"
+      },
+
+
+      {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$2fc3c831-0649-4827-aea9-0e3056e2b438(Alchemist(Vivisectionist))",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_0937bec61c0dabc468428f496580c721",
+        "m_Archetype": "!bp_68cbcd9fbf1fb1d489562f829bb97e38"
+      },
+      {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$98f32bfd-f6b2-4025-a457-fdd36dd90011(Inquisitor(SanctifiedSlayer))",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_f1a70d9e1b0b41e49874e1fa9052a1ce",
+        "m_Archetype": "!bp_19b4a243d9a4bd34887d03c3dea03ced"
+      },
+      {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$b47549b2-aa18-49c4-b06f-416f2a44b49b(Warpriest(CultLeader))",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_30b5e47d47a0e37438cc5a80c96cfb99",
+        "m_Archetype": "!bp_cd2d419961bb019438b77d4aecc2fc04"
+      },
+      {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$76bbbe94-a096-4077-ac7d-00fd62a0dc3e(Paladin(DivineScion))",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_bfa11238e7ae3544bbeb4d0b92e897ec",
+        "m_Archetype": "!bp_5ce3a2f8eae64cf2ba83865711e53e27"
+      },
+      {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$74864409-bca6-45f0-9e70-e0655dabf589(Shaman(ShadowShaman))",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_145f1d3d360a7ad48bd95d392c81b38e",
+        "m_Archetype": "!bp_5086aef2b76c433584160f7b49aef95b"
+      },
+
+
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$8109a98c-4394-469a-9932-a9d69a88ea17(RogueArchetypeDedication)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_b183d082a01d4ae19ac622706302252c"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$0ec1a7aa-67de-46f1-a9c9-851ef4b9471f(SlayerArchetypeDedication)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_2f3dab7a06bf4eb5b3c0f8013ae402cc"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$e3491b7b-b252-49b8-a1b2-75248c83c0ec(StygianSlayerArchetypeDedication)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_0a7f905a5d454d4289ddcad748de411a"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$af8dbee0-eec1-41ed-af5f-3877caac1ceb(SylvanTricksterArchetypeDedication)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_9e63b420a4124d70ad9d08712ad04638"
       }
     ],
     "m_AllowNonContextActions": false,
