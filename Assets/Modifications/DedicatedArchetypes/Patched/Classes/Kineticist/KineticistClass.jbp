@@ -1,0 +1,130 @@
+{
+  "AssetId": "42a455d9ec1ad924d889272429eb8391",
+  "Data": {
+    "$type": "5f2bdd25f161a0d4c97bee89cf923d77, BlueprintCharacterClass",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$PrerequisiteIsPet$503424e0-4087-4d70-a5bf-aba359dc20f5"
+    ],
+    "Components": [
+      {
+        "$type": "532e804185719b942b52ed141aa10a21, PrerequisiteIsPet",
+        "name": "$PrerequisiteIsPet$503424e0-4087-4d70-a5bf-aba359dc20f5",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Not": true
+      }
+    ],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "39cead48-6843-443e-bb4f-2527267e8d13",
+      "m_OwnerString": "42a455d9ec1ad924d889272429eb8391",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Kineticist/KineticistClass_LocalizedName.json",
+      "Shared": null
+    },
+    "LocalizedDescription": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "ad52095e959b8bf43ae4b8193b1b79ac",
+        "stringkey": "f3a5ecd3-c13d-422d-a4d0-8883ea458bca"
+      }
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "c4a4807124cc96346ab2e4c8eb1db0af",
+        "stringkey": "7ee23bbe-83aa-45f0-aa1f-428f699d9564"
+      }
+    },
+    "m_Icon": null,
+    "SkillPoints": 2,
+    "HitDie": "D8",
+    "HideIfRestricted": true,
+    "PrestigeClass": false,
+    "IsMythic": false,
+    "DlcType": "None",
+    "m_BaseAttackBonus": "!bp_4c936de4249b61e419a3fb775b9f2581",
+    "m_FortitudeSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_ReflexSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_WillSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3",
+    "m_Progression": "!bp_b79e92dd495edd64e90fb483c504b8df",
+    "m_Spellbook": null,
+    "ClassSkills": [
+      "SkillMobility",
+      "SkillPersuasion",
+      "SkillStealth",
+      "SkillUseMagicDevice",
+      "SkillPerception"
+    ],
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "m_Archetypes": [
+      "!bp_f12f18ae8842425489d29f302e69134c",
+      "!bp_f2847dd4b12fffd41beaa3d7120d27ad",
+      "!bp_7d61d9b2250260a45b18c5634524a8fb",
+      "!bp_365b50dba54efb74fa24c07e9b7a838c",
+      "!bp_aa11888104d17f7459851e8d559ffa98",
+      "!bp_4a8324d676d642c99edcdda6988ca3b1"
+    ],
+    "StartingGold": 411,
+    "m_StartingItems": [
+      "!bp_9f76e9a3353e914479c5ddb4b4a82fb4",
+      "!bp_d52566ae8cbe8dc4dae977ef51c27d91",
+      "!bp_d52566ae8cbe8dc4dae977ef51c27d91",
+      "!bp_d52566ae8cbe8dc4dae977ef51c27d91",
+      "!bp_0a6a7bbf0ddcebb4f8c4c7bd5d20c003",
+      "!bp_bc93a78d71bef084fa155e529660ed0d"
+    ],
+    "PrimaryColor": 12,
+    "SecondaryColor": 19,
+    "m_EquipmentEntities": [],
+    "MaleEquipmentEntities": [
+      {
+        "AssetId": "1aa1272c6312fc449b33f81f2f39bf6e"
+      },
+      {
+        "AssetId": "85e1930d5f4fe35498ec29c8dc689d53"
+      },
+      {
+        "AssetId": "aa33fb01b1db1444ca27ba2f537e5837"
+      }
+    ],
+    "FemaleEquipmentEntities": [
+      {
+        "AssetId": "4eb7ca3ef38cbb6449c2a7db101d20fa"
+      },
+      {
+        "AssetId": "16db9eaeb326aa04c85fa7fde940b236"
+      },
+      {
+        "AssetId": "aa33fb01b1db1444ca27ba2f537e5837"
+      }
+    ],
+    "m_Difficulty": 5,
+    "RecommendedAttributes": [
+      "Dexterity",
+      "Constitution"
+    ],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [
+      "!bp_1f9640eacfb947cdb7a31fdf29985069",
+      "!bp_c7c414e5373342c9a84b018ae6ee74f1",
+      "!bp_806cd859b9b942978a842b619503a2b8"
+    ],
+    "m_DefaultBuild": "!bp_4d3485ad2fe43cd40b6cfbc1a3b9e484",
+    "m_AdditionalVisualSettings": null
+  }
+}

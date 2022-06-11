@@ -15,5 +15,37 @@ MonoBehaviour:
   Entries:
   - Guid: 3adc3439f98cb534ba98df59838f02c7
     Filename: Patches/Classes/Cavalier/CavalierClass.patch
+  - Guid: f1a70d9e1b0b41e49874e1fa9052a1ce
+    Filename: Patches/Classes/Inquisitor/InquisitorClass.patch
+  - Guid: 42a455d9ec1ad924d889272429eb8391
+    Filename: Patches/Classes/Kineticist/KineticistClass.patch
+  - Guid: 22b1d98502050cb4cbdb3679ac53115e
+    Filename: Patches/Classes/Rogue/DebilitatingInjury/DebilitatingInjuryBewilderedEffectBuff.patch
+  - Guid: 1f1e42f8c06d7dc4bb70cc12c73dfb38
+    Filename: Patches/Classes/Rogue/DebilitatingInjury/DebilitatingInjuryDisorientedEffectBuff.patch
+  - Guid: ca5274d057152fa45b7527cad0927840
+    Filename: Patches/Classes/Rogue/RogueTalents/UncannyDodgeTalent.patch
+  - Guid: 9e0d01f2eb934a74bb27d0dbe924aaa7
+    Filename: Patches/Classes/Rogue/RogueTalents/WeakeningWoundBuff.patch
+  - Guid: 1b92146b8a9830d4bb97ab694335fa7c
+    Filename: Patches/Classes/Rogue/RogueTalentsAdvanced/DispellingAttack.patch
+  - Guid: e821c61b2711cea4cb993725b910e7e8
+    Filename: Patches/Classes/Rogue/RogueTalentsAdvanced/ImprovedUncannyDodgeTalent.patch
+  - Guid: eab680abdb0194343af169af393c2603
+    Filename: Patches/Classes/Rogue/MasterStrikeBuff.patch
+  - Guid: 6f33cd117281834468ee73e79a0367c6
+    Filename: Patches/Classes/Rogue/MasterStrikeCooldownBuff.patch
+  - Guid: dbb6b3bffe6db3547b31c3711653838e
+    Filename: Patches/Classes/Rogue/Trapfinding.patch
+  - Guid: ce396210432d02343ba4f3b44bc02464
+    Filename: Patches/Classes/Slayer/Archetypes/StygianSlayer/StygianSlayerShadowyMistFormResource.patch
+  - Guid: d474f18e89348bf4db1ff634040ad283
+    Filename: Patches/Classes/Slayer/MasterSlayerBuff.patch
+  - Guid: 45548967b714e254aa83f23354f174b0
+    Filename: Patches/Classes/Slayer/SlayerStudyTargetBuff.patch
+  - Guid: 90fdfeb61368f15488031bee72ab7c18
+    Filename: Patches/Classes/Slayer/SlayerSwiftStudyTargetAbility.patch
+  - Guid: e3c12938c2f93544da89824fbe0933a5
+    Filename: Patches/Classes/Slayer/SlayerTrapfinding.patch
   - Guid: 30b5e47d47a0e37438cc5a80c96cfb99
     Filename: Patches/Classes/Warpriest/WarpriestClass.patch

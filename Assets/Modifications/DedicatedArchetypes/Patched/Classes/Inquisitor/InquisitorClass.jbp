@@ -1,0 +1,180 @@
+{
+  "AssetId": "f1a70d9e1b0b41e49874e1fa9052a1ce",
+  "Data": {
+    "$type": "5f2bdd25f161a0d4c97bee89cf923d77, BlueprintCharacterClass",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$PrerequisiteNoFeature$48581f08-9b4a-4ee6-a054-3fb39bd70249",
+      "$PrerequisiteIsPet$c05937ef-c3c1-4e51-a3a4-31871e0a7997",
+      "$DeityDependencyClass$f13b38e4-a24d-42ed-9585-4c152112bd9c"
+    ],
+    "Components": [
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$c0046ea6-d930-4cb6-a8ba-a387fe3bdefc",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_4cd1757a0eea7694ba5c933729a53920"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoFeature$48581f08-9b4a-4ee6-a054-3fb39bd70249",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_92c0d2da0a836ce418a267093c09ca54"
+      },
+      {
+        "$type": "532e804185719b942b52ed141aa10a21, PrerequisiteIsPet",
+        "m_Flags": 0,
+        "name": "$PrerequisiteIsPet$c05937ef-c3c1-4e51-a3a4-31871e0a7997",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Not": true
+      },
+      {
+        "$type": "4950f8993ff875341bf6ce948dc2e13c, DeityDependencyClass",
+        "m_Flags": 0,
+        "name": "$DeityDependencyClass$f13b38e4-a24d-42ed-9585-4c152112bd9c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "IsDeityDependencyClass": true
+      }
+    ],
+    "Comment": "todo: Slayer, True Judgment, Exploit Weakness",
+    "LocalizedName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "9314233719750c6458f11aa25f66afd7",
+        "stringkey": "4450e2ac-e3c5-48c3-8ad5-52d916d68a3a"
+      }
+    },
+    "LocalizedDescription": {
+      "m_Key": "94189a48-5d25-4f05-a2d3-1e5537315eb9",
+      "m_OwnerString": "f1a70d9e1b0b41e49874e1fa9052a1ce",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Inquisitor/InquisitorClass_LocalizedDescription.json",
+      "Shared": null
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "fc383711af3804c458392e9b8f3d19fd",
+        "stringkey": "c09feea9-0599-46fe-9918-8b4b0c443e0b"
+      }
+    },
+    "m_Icon": null,
+    "SkillPoints": 4,
+    "HitDie": "D8",
+    "HideIfRestricted": false,
+    "PrestigeClass": false,
+    "IsMythic": false,
+    "m_IsHigherMythic": false,
+    "m_BaseAttackBonus": "!bp_4c936de4249b61e419a3fb775b9f2581",
+    "m_FortitudeSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_ReflexSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3",
+    "m_WillSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_Progression": "!bp_4e945c2fe5e252f4ea61eee7fb560017",
+    "m_Spellbook": "!bp_57fab75111f377248810ece84193a5a5",
+    "ClassSkills": [
+      "SkillMobility",
+      "SkillAthletics",
+      "SkillPersuasion",
+      "SkillThievery",
+      "SkillLoreNature",
+      "SkillPerception",
+      "SkillStealth",
+      "SkillUseMagicDevice",
+      "SkillLoreReligion",
+      "SkillKnowledgeWorld",
+      "SkillKnowledgeArcana"
+    ],
+    "IsDivineCaster": true,
+    "IsArcaneCaster": false,
+    "m_Archetypes": [
+      "!bp_ac87f40932cfd324c90b441f93857c40",
+      "!bp_cdaabf4b146c9ba42ab7d05abe3b48c4",
+      "!bp_639b74fd2f48d474e965c596b1649095",
+      "!bp_46eb929c8b6d7164188eb4d9bcd0a012",
+      "!bp_19b4a243d9a4bd34887d03c3dea03ced",
+      "!bp_0e5e91c17f114d358910e0da4ae29b50"
+    ],
+    "StartingGold": 411,
+    "m_StartingItems": [
+      "!bp_201f6150321e09048bd59e9b7f558cb0",
+      "!bp_f713232cb92bde747aa32dc6b45f1ca7",
+      "!bp_a85d51d0fb905f940b951eec60388bac",
+      "!bp_d7963e1fcf260c148877afd3252dbc91",
+      "!bp_ec619484fb1a13441b30f6d08e1c5b6f"
+    ],
+    "PrimaryColor": 12,
+    "SecondaryColor": 54,
+    "m_EquipmentEntities": [
+      "!bp_8a229ebb7b294cbb9bd984e0d1342423",
+      "!bp_aa116de3d7ca46668694d5b544d8c5e1"
+    ],
+    "MaleEquipmentEntities": [
+      {
+        "AssetId": "1d070a314c6b6cc4c8cb25535962542e"
+      },
+      {
+        "AssetId": "db25be3becf55bb499b6ad5ddaad6640"
+      }
+    ],
+    "FemaleEquipmentEntities": [
+      {
+        "AssetId": "2d67e529246cc754390a5c92d5ee50dd"
+      },
+      {
+        "AssetId": "b5db7f26cdb3fb949b16a2d88de0e920"
+      }
+    ],
+    "m_Difficulty": 3,
+    "RecommendedAttributes": [
+      "Wisdom"
+    ],
+    "NotRecommendedAttributes": [
+      "Charisma",
+      "Intelligence"
+    ],
+    "m_SignatureAbilities": [
+      "!bp_66bdd3daa1e6402295e88e1d81ffff95",
+      "!bp_75e5a372074048e2ac3cb9d6cd0c1de0",
+      "!bp_a318fa1af8424638ab10c4f98c11ee6a"
+    ],
+    "m_DefaultBuild": "!bp_0717e6dae6dac6c4ba1c5b2636b148e1",
+    "m_AdditionalVisualSettings": null,
+    "VisualSettingsPriority": 0
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

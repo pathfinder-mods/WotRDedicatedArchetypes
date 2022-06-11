@@ -1,0 +1,334 @@
+{
+  "AssetId": "d474f18e89348bf4db1ff634040ad283",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddInitiatorAttackWithWeaponTrigger$03483095-dad8-47d9-8095-10bd0e12eb96",
+      "$ContextCalculateAbilityParamsBasedOnClass$3da3ae58-480c-4886-aa29-e5ee98a2df19",
+      "$AddInitiatorAttackWithWeaponTrigger$3d7a9c7b-327c-4601-9c51-41ea00bfa3e8"
+    ],
+    "Components": [
+      {
+        "$type": "bdbdc2afaa197d4479e112a32f9bdab5, AddInitiatorAttackWithWeaponTrigger",
+        "name": "$AddInitiatorAttackWithWeaponTrigger$03483095-dad8-47d9-8095-10bd0e12eb96",
+        "m_Overrides": [],
+        "WaitForAttackResolve": true,
+        "OnlyHit": true,
+        "OnMiss": false,
+        "OnlyOnFullAttack": false,
+        "OnlyOnFirstAttack": false,
+        "OnlyOnFirstHit": false,
+        "CriticalHit": false,
+        "OnAttackOfOpportunity": false,
+        "NotCriticalHit": false,
+        "OnlySneakAttack": false,
+        "NotSneakAttack": false,
+        "m_WeaponType": null,
+        "CheckWeaponCategory": false,
+        "Category": "UnarmedStrike",
+        "CheckWeaponGroup": false,
+        "Group": "None",
+        "CheckWeaponRangeType": false,
+        "RangeType": "Melee",
+        "ActionsOnInitiator": false,
+        "ReduceHPToZero": false,
+        "CheckDistance": false,
+        "DistanceLessEqual": {
+          "m_Value": 0.0
+        },
+        "AllNaturalAndUnarmed": false,
+        "DuelistWeapon": false,
+        "NotExtraAttack": false,
+        "OnCharge": false,
+        "Action": {
+          "Actions": [
+            {
+              "$type": "5e2f2046f3bd6984c8833bf019c8e8ad, ContextActionSavingThrow",
+              "name": "$ContextActionSavingThrow$f6f5297b-4dc6-4e70-8518-454f716e57dd",
+              "Type": "Fortitude",
+              "FromBuff": false,
+              "m_ConditionalDCIncrease": [
+                {
+                  "Condition": {
+                    "Operation": "And",
+                    "Conditions": []
+                  },
+                  "Value": {
+                    "ValueType": "Simple",
+                    "Value": 5,
+                    "ValueRank": "Default",
+                    "ValueShared": "Damage",
+                    "Property": "None",
+                    "m_CustomProperty": null
+                  }
+                },
+                {
+                  "Condition": {
+                    "Operation": "And",
+                    "Conditions": [
+                      {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$5f5e3e22-d464-47d6-92bc-9ef5a659483d",
+                        "Not": false,
+                        "m_Fact": "!bp_c2e2b3b4bd9601c43b8891957e830534"
+                      },
+                      {
+                        "$type": "5e83ea90a75d7d849922fdb6c332a1bb, ContextConditionSize",
+                        "name": "$ContextConditionSize$976c0509-197a-44a1-ad52-a64268a9d47d",
+                        "Not": false,
+                        "Size": "Large",
+                        "Invert": false,
+                        "CheckCaster": false
+                      }
+                    ]
+                  },
+                  "Value": {
+                    "ValueType": "Simple",
+                    "Value": 1,
+                    "ValueRank": "Default",
+                    "ValueShared": "Damage",
+                    "Property": "None",
+                    "m_CustomProperty": null
+                  }
+                },
+                {
+                  "Condition": {
+                    "Operation": "And",
+                    "Conditions": [
+                      {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$57fc2611-569c-47ad-abd3-42cb991e1c24",
+                        "Not": false,
+                        "m_Fact": "!bp_c2e2b3b4bd9601c43b8891957e830534"
+                      },
+                      {
+                        "$type": "5e83ea90a75d7d849922fdb6c332a1bb, ContextConditionSize",
+                        "name": "$ContextConditionSize$a0780914-e11f-4ad2-bd54-d1bbcd5ab2a4",
+                        "Not": false,
+                        "Size": "Huge",
+                        "Invert": false,
+                        "CheckCaster": false
+                      }
+                    ]
+                  },
+                  "Value": {
+                    "ValueType": "Simple",
+                    "Value": 1,
+                    "ValueRank": "Default",
+                    "ValueShared": "Damage",
+                    "Property": "None",
+                    "m_CustomProperty": null
+                  }
+                },
+                {
+                  "Condition": {
+                    "Operation": "And",
+                    "Conditions": [
+                      {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$31ff1e64-3e03-4740-8d85-a6c517350f55",
+                        "Not": false,
+                        "m_Fact": "!bp_c2e2b3b4bd9601c43b8891957e830534"
+                      },
+                      {
+                        "$type": "5e83ea90a75d7d849922fdb6c332a1bb, ContextConditionSize",
+                        "name": "$ContextConditionSize$aecb212c-50fb-4464-b4d2-69c3655ea3dc",
+                        "Not": false,
+                        "Size": "Gargantuan",
+                        "Invert": false,
+                        "CheckCaster": false
+                      }
+                    ]
+                  },
+                  "Value": {
+                    "ValueType": "Simple",
+                    "Value": 1,
+                    "ValueRank": "Default",
+                    "ValueShared": "Damage",
+                    "Property": "None",
+                    "m_CustomProperty": null
+                  }
+                },
+                {
+                  "Condition": {
+                    "Operation": "And",
+                    "Conditions": [
+                      {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$42d15685-659b-455f-80d7-b8578e20f0df",
+                        "Not": false,
+                        "m_Fact": "!bp_c2e2b3b4bd9601c43b8891957e830534"
+                      },
+                      {
+                        "$type": "5e83ea90a75d7d849922fdb6c332a1bb, ContextConditionSize",
+                        "name": "$ContextConditionSize$329f3c96-9c00-46cb-b99e-c791779334d7",
+                        "Not": false,
+                        "Size": "Colossal",
+                        "Invert": false,
+                        "CheckCaster": false
+                      }
+                    ]
+                  },
+                  "Value": {
+                    "ValueType": "Simple",
+                    "Value": 1,
+                    "ValueRank": "Default",
+                    "ValueShared": "Damage",
+                    "Property": "None",
+                    "m_CustomProperty": null
+                  }
+                }
+              ],
+              "HasCustomDC": false,
+              "CustomDC": {
+                "ValueType": "Simple",
+                "Value": 0,
+                "ValueRank": "Default",
+                "ValueShared": "Damage",
+                "Property": "None",
+                "m_CustomProperty": null
+              },
+              "Actions": {
+                "Actions": [
+                  {
+                    "$type": "d61949c589ee885458c9439b2aa202b6, ContextActionConditionalSaved",
+                    "name": "$ContextActionConditionalSaved$20803881-eec1-4d16-ac10-4161abdd6fa2",
+                    "Succeed": {
+                      "Actions": []
+                    },
+                    "Failed": {
+                      "Actions": [
+                        {
+                          "$type": "930b32b3226bd714283798d0cc050b71, ContextActionKill",
+                          "name": "$ContextActionKillTarget$f5b61c05-c6e2-4fc2-a08e-da379920d9fb",
+                          "Dismember": "None"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
+              "name": "$ContextActionApplyBuff$7e69f637-0560-46fe-8789-15257e1c815d",
+              "m_Buff": "!bp_d3bcc59f4365d924d93b630e5abd27a2",
+              "Permanent": false,
+              "UseDurationSeconds": false,
+              "DurationValue": {
+                "Rate": "Days",
+                "DiceType": "Zero",
+                "DiceCountValue": {
+                  "ValueType": "Simple",
+                  "Value": 0,
+                  "ValueRank": "Default",
+                  "ValueShared": "Damage",
+                  "Property": "None",
+                  "m_CustomProperty": null
+                },
+                "BonusValue": {
+                  "ValueType": "Simple",
+                  "Value": 1,
+                  "ValueRank": "Default",
+                  "ValueShared": "Damage",
+                  "Property": "None",
+                  "m_CustomProperty": null
+                },
+                "m_IsExtendable": true
+              },
+              "DurationSeconds": 0.0,
+              "IsFromSpell": false,
+              "IsNotDispelable": false,
+              "ToCaster": false,
+              "AsChild": false,
+              "SameDuration": false
+            }
+          ]
+        }
+      },
+      {
+        "$type": "d2dda0ee3bdd96d4dbb27cdb0640facb, ContextCalculateAbilityParamsBasedOnClass",
+        "name": "$ContextCalculateAbilityParamsBasedOnClass$3da3ae58-480c-4886-aa29-e5ee98a2df19",
+        "m_Overrides": [],
+        "UseKineticistMainStat": false,
+        "StatType": "Intelligence",
+        "m_CharacterClass": "!bp_c75e0971973957d4dbad24bc7957e4fb"
+      },
+      {
+        "$type": "bdbdc2afaa197d4479e112a32f9bdab5, AddInitiatorAttackWithWeaponTrigger",
+        "name": "$AddInitiatorAttackWithWeaponTrigger$3d7a9c7b-327c-4601-9c51-41ea00bfa3e8",
+        "m_Overrides": [],
+        "WaitForAttackResolve": true,
+        "OnlyHit": false,
+        "OnMiss": false,
+        "OnlyOnFullAttack": false,
+        "OnlyOnFirstAttack": false,
+        "OnlyOnFirstHit": false,
+        "CriticalHit": false,
+        "OnAttackOfOpportunity": false,
+        "NotCriticalHit": false,
+        "OnlySneakAttack": false,
+        "NotSneakAttack": false,
+        "m_WeaponType": null,
+        "CheckWeaponCategory": false,
+        "Category": "UnarmedStrike",
+        "CheckWeaponGroup": false,
+        "Group": "None",
+        "CheckWeaponRangeType": false,
+        "RangeType": "Melee",
+        "ActionsOnInitiator": false,
+        "ReduceHPToZero": false,
+        "CheckDistance": false,
+        "DistanceLessEqual": {
+          "m_Value": 0.0
+        },
+        "AllNaturalAndUnarmed": false,
+        "DuelistWeapon": false,
+        "NotExtraAttack": false,
+        "OnCharge": false,
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$470c1327-f0fa-4a14-bb3d-f9697863d621"
+            }
+          ]
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "IsClassFeature": true,
+    "m_Flags": "HiddenInUi",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

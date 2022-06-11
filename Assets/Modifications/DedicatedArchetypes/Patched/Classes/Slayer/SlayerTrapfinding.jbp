@@ -1,0 +1,106 @@
+{
+  "AssetId": "e3c12938c2f93544da89824fbe0933a5",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddClassSkill$fe5d2949-954e-4ff8-8a27-d77d6eed148d"
+    ],
+    "Components": [
+      {
+        "$type": "a15673bd9e3879442825226335fd8fe2, ContextRankConfig",
+        "name": "$ContextRankConfig$81a3b80d-47d0-43c8-8d64-78f6a419a960",
+        "m_Overrides": [],
+        "m_Type": "Default",
+        "m_BaseValueType": "ClassLevel",
+        "m_Feature": null,
+        "m_FeatureList": [],
+        "m_Stat": "Unknown",
+        "m_SpecificModifier": "None",
+        "m_Buff": null,
+        "m_Progression": "Div2",
+        "m_CustomProgression": [],
+        "m_StartLevel": 0,
+        "m_StepLevel": 0,
+        "m_UseMin": true,
+        "m_Min": 1,
+        "m_UseMax": false,
+        "m_Max": 20,
+        "m_ExceptClasses": false,
+        "Archetype": null,
+        "m_AdditionalArchetypes": [],
+        "m_Class": [
+          "!bp_c75e0971973957d4dbad24bc7957e4fb"
+        ],
+        "m_CustomProperty": null,
+        "m_CustomPropertyList": []
+      },
+      {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "name": "$AddContextStatBonus$930303f7-e3ee-4559-b552-bef1823a7b7a",
+        "m_Overrides": [],
+        "Descriptor": "None",
+        "Stat": "SkillPerception",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "Rank",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        }
+      },
+      {
+        "$type": "7a5d4700264de3b4aacf2514df964a14, AddClassSkill",
+        "name": "$AddClassSkill$fe5d2949-954e-4ff8-8a27-d77d6eed148d",
+        "m_Overrides": [],
+        "Skill": "SkillThievery"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "529fa673cabf769429810c0caeca2226",
+        "stringkey": "76c4f90b-62d3-4bde-9fcc-9771820eb585"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "3c378cb7e427a3b4b92189983dbd56b0",
+        "stringkey": "1850fad5-ce4d-4613-8a89-988bd551554b"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "521a6d3932c3ab4448a6eb95782dae06",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "SlayerTalent"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": true,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

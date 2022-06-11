@@ -1,0 +1,43 @@
+{
+  "_#ArrayMergeSettings": "Union",
+  "m_Overrides": [
+    "$ContextCalculateAbilityParamsBasedOnClass$b8a6504c-31a3-4ba5-82e1-15d8ddc31e80(Cavalier)",
+    "$ContextCalculateAbilityParamsBasedOnClass$b8a6504c-31a3-4ba5-82e1-15d8ddc31e80(Inquisitor)",
+    "$ContextCalculateAbilityParamsBasedOnClass$b8a6504c-31a3-4ba5-82e1-15d8ddc31e80(Kineticist)",
+    "$ContextCalculateAbilityParamsBasedOnClass$b8a6504c-31a3-4ba5-82e1-15d8ddc31e80(Warpriest)"
+  ],
+  "Components": [
+    {
+      "$type": "d2dda0ee3bdd96d4dbb27cdb0640facb, ContextCalculateAbilityParamsBasedOnClass",
+      "name": "$ContextCalculateAbilityParamsBasedOnClass$b8a6504c-31a3-4ba5-82e1-15d8ddc31e80(Cavalier)",
+      "m_Overrides": [],
+      "UseKineticistMainStat": false,
+      "StatType": "Intelligence",
+      "m_CharacterClass": "!bp_3adc3439f98cb534ba98df59838f02c7"
+    },
+    {
+      "$type": "d2dda0ee3bdd96d4dbb27cdb0640facb, ContextCalculateAbilityParamsBasedOnClass",
+      "name": "$ContextCalculateAbilityParamsBasedOnClass$b8a6504c-31a3-4ba5-82e1-15d8ddc31e80(Inquisitor)",
+      "m_Overrides": [],
+      "UseKineticistMainStat": false,
+      "StatType": "Intelligence",
+      "m_CharacterClass": "!bp_f1a70d9e1b0b41e49874e1fa9052a1ce"
+    },
+    {
+      "$type": "d2dda0ee3bdd96d4dbb27cdb0640facb, ContextCalculateAbilityParamsBasedOnClass",
+      "name": "$ContextCalculateAbilityParamsBasedOnClass$b8a6504c-31a3-4ba5-82e1-15d8ddc31e80(Kineticist)",
+      "m_Overrides": [],
+      "UseKineticistMainStat": false,
+      "StatType": "Intelligence",
+      "m_CharacterClass": "!bp_42a455d9ec1ad924d889272429eb8391"
+    },
+    {
+      "$type": "d2dda0ee3bdd96d4dbb27cdb0640facb, ContextCalculateAbilityParamsBasedOnClass",
+      "name": "$ContextCalculateAbilityParamsBasedOnClass$b8a6504c-31a3-4ba5-82e1-15d8ddc31e80(Warpriest)",
+      "m_Overrides": [],
+      "UseKineticistMainStat": false,
+      "StatType": "Intelligence",
+      "m_CharacterClass": "!bp_30b5e47d47a0e37438cc5a80c96cfb99"
+    }
+  ]
+}

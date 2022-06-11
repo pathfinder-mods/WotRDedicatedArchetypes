@@ -1,0 +1,171 @@
+{
+  "AssetId": "ca5274d057152fa45b7527cad0927840",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$PrerequisiteArchetypeLevel$d8cbb5e3-524e-47da-994b-4498a8cb6a43"
+    ],
+    "Components": [
+      {
+        "$type": "682c71964f9bf3d4d97232b9016eafc8, PrerequisiteArchetypeLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteArchetypeLevel$d8cbb5e3-524e-47da-994b-4498a8cb6a43",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_299aa766dee3cbf4790da4efb8c72484",
+        "m_Archetype": "!bp_57f93dd8423c97c49989501281296c4a",
+        "Level": 4
+      },
+      {
+        "$type": "25d172d2be8f52f468b2050d14d59806, AddFactContextActions",
+        "m_Flags": 0,
+        "name": "$AddFactContextActions$08bd2c8b-3e8c-4d0e-a503-7f3e9ebf2244",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Activated": {
+          "Actions": [
+            {
+              "$type": "52d8973f2e470e14c97b74209680491a, Conditional",
+              "name": "$Conditional$b5647c66-ce84-43f3-b7ec-3672ff119410",
+              "Comment": "",
+              "ConditionsChecker": {
+                "Operation": "And",
+                "Conditions": [
+                  {
+                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                    "name": "$ContextConditionHasFact$aa64c329-ee38-4dfa-b76e-290813bd6b87",
+                    "Not": false,
+                    "m_Fact": "!bp_3c08d842e802c3e4eb19d15496145709"
+                  }
+                ]
+              },
+              "IfTrue": {
+                "Actions": [
+                  {
+                    "$type": "1e13328c4121c4a46a640f93d374e595, ContextActionAddFeature",
+                    "name": "$ContextActionAddFeature$b6021a71-db4d-4fc6-9f4e-985e72b0ca47",
+                    "m_PermanentFeature": "!bp_485a18c05792521459c7d06c63128c79"
+                  }
+                ]
+              },
+              "IfFalse": {
+                "Actions": [
+                  {
+                    "$type": "1e13328c4121c4a46a640f93d374e595, ContextActionAddFeature",
+                    "name": "$ContextActionAddFeature$bb177412-29a1-4b6d-a37c-62ffd77d4ba3",
+                    "m_PermanentFeature": "!bp_3c08d842e802c3e4eb19d15496145709"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "Deactivated": {
+          "Actions": []
+        },
+        "NewRound": {
+          "Actions": []
+        }
+      },
+      {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteClassLevel$3c03eb02-ad07-4363-aa22-e028b667b323",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_772c83a25e2268e448e841dcd548235f",
+        "Level": 4
+      },
+      {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteClassLevel$0848c8ea-b203-4a5d-8392-419a9179282b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_c75e0971973957d4dbad24bc7957e4fb",
+        "Level": 4
+      },
+      {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteClassLevel$fcdad129-46cb-4f14-822b-69997b5e23c8",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_6afa347d804838b48bda16acb0573dc0",
+        "Level": 4
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "64d354a5fc34c8249b694872b3e21ba5",
+        "stringkey": "aaace282-2bc9-432f-b914-4fffafd1dad5"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "6be90946a4498134ea57e78f67fb7f6e",
+        "stringkey": "375e282f-e4fe-433f-be59-ae5983c0e65e"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "f549aced0cfe8a7469985214a71d9503",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "RogueTalent",
+      "SlayerTalent"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  }
+}
