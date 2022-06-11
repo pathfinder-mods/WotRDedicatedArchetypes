@@ -6,20 +6,28 @@
       "Value": "######################################################################"
     },
     {
-      "Key": "ArcanistDedicatedArchetype_Name",
-      "Value": "Begabter Arkanist"
-    },
-    {
-      "Key": "ArcanistDedicatedArchetype_Description",
-      "Value": "Begabter Arkanist"
-    },
-    {
       "Key": "CavalierDedicatedArchetype_Name",
       "Value": "Begabter Ritter"
     },
     {
       "Key": "CavalierDedicatedArchetype_Description",
       "Value": "Begabter Ritter"
+    },
+    {
+      "Key": "InquisitorDedicatedArchetype_Name",
+      "Value": "Begabter Inquisitor"
+    },
+    {
+      "Key": "InquisitorDedicatedArchetype_Description",
+      "Value": "Begabter Inquisitor"
+    },
+    {
+      "Key": "KineticistDedicatedArchetype_Name",
+      "Value": "Begabter Kinetiker"
+    },
+    {
+      "Key": "KineticistDedicatedArchetype_Description",
+      "Value": "Begabter Kinetiker"
     },
     {
       "Key": "WarpriestDedicatedArchetype_Name",

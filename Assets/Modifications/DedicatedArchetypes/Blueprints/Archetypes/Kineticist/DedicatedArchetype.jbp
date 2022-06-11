@@ -1,5 +1,5 @@
 {
-  "AssetId": "2530c8d381b04da1a11324d58699ad7e",
+  "AssetId": "c80e25648afd4cc0917285ddf9932303",
   "Data": {
     "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
     "PrototypeLink": null,
@@ -21,15 +21,15 @@
     ],
     "Comment": "",
     "LocalizedName": {
-      "m_Key": "CavalierDedicatedArchetype_Name",
-      "m_OwnerString": "2530c8d381b04da1a11324d58699ad7e",
+      "m_Key": "KineticistDedicatedArchetype_Name",
+      "m_OwnerString": "c80e25648afd4cc0917285ddf9932303",
       "m_OwnerPropertyPath": "LocalizedName",
       "m_JsonPath": "",
       "Shared": null
     },
     "LocalizedDescription": {
-      "m_Key": "CavalierDedicatedArchetype_Description",
-      "m_OwnerString": "2530c8d381b04da1a11324d58699ad7e",
+      "m_Key": "KineticistDedicatedArchetype_Description",
+      "m_OwnerString": "c80e25648afd4cc0917285ddf9932303",
       "m_OwnerPropertyPath": "LocalizedDescription",
       "m_JsonPath": "",
       "Shared": null

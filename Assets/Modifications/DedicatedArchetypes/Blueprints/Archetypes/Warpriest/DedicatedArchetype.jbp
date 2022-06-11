@@ -4,7 +4,21 @@
     "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
     "PrototypeLink": null,
     "m_Overrides": [],
-    "Components": [],
+    "Components": [
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$f691d996-8f75-4b40-a29c-c55de06cb084(DedicationSelection)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_fcccb785ebd749c0a1eb1292f8ab45d2"
+      }
+    ],
     "Comment": "",
     "LocalizedName": {
       "m_Key": "WarpriestDedicatedArchetype_Name",
