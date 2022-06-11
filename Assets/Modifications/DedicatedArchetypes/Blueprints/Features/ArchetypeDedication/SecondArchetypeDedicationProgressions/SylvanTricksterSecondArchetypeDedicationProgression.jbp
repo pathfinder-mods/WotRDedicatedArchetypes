@@ -209,35 +209,42 @@
     "LevelEntries": [
       {
         "Level": 8,
-        "Comment": "Sylvan Trickster Talents",
+        "Comment": "Weapon Finesse, Trap Finding",
         "m_Features": [
-          "!bp_290bbcc3c3bb92144b853fd8fb8ff452",
-          "!bp_90e54424d682d104ab36436bd527af09"
+          "!bp_90e54424d682d104ab36436bd527af09",
+          "!bp_dbb6b3bffe6db3547b31c3711653838e"
         ]
       },
       {
         "Level": 9,
-        "Comment": "Danger Sense, Finesse Training",
+        "Comment": "Sylvan Trickster Talents",
         "m_Features": [
-          "!bp_0bcbe9e450b0e7b428f08f66c53c5136",
-          "!bp_b78d146cea711a84598f0acef69462ea"
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452"
         ]
       },
       {
         "Level": 10,
-        "Comment": "Sylvan Trickster Talents, WitchMajorHex",
+        "Comment": "Danger Sense, Finesse Training, WitchMajorHex",
         "m_Features": [
-          "!bp_290bbcc3c3bb92144b853fd8fb8ff452",
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136",
+          "!bp_b78d146cea711a84598f0acef69462ea",
           "!bp_8ac781b33e380c84aa578f1b006dd6c5"
         ]
       },
       {
         "Level": 11,
+        "Comment": "Sylvan Trickster Talents",
         "m_Features": [
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452"
         ]
       },
       {
         "Level": 12,
+        "m_Features": [
+        ]
+      },
+      {
+        "Level": 13,
         "Comment": "Danger Sense, Sylvan Trickster Talents",
         "m_Features": [
           "!bp_0bcbe9e450b0e7b428f08f66c53c5136",
@@ -245,12 +252,12 @@
         ]
       },
       {
-        "Level": 13,
+        "Level": 14,
         "m_Features": [
         ]
       },
       {
-        "Level": 14,
+        "Level": 15,
         "Comment": "Sylvan Trickster Talents, Fey Resistance",
         "m_Features": [
           "!bp_290bbcc3c3bb92144b853fd8fb8ff452",
@@ -258,48 +265,42 @@
         ]
       },
       {
-        "Level": 15,
+        "Level": 16,
         "Comment": "Danger Sense",
         "m_Features": [
           "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
         ]
       },
       {
-        "Level": 16,
-        "Comment": "Sylvan Trickster Talents, WitchMajorHex",
+        "Level": 17,
+        "Comment": "Sylvan Trickster Talents",
         "m_Features": [
           "!bp_290bbcc3c3bb92144b853fd8fb8ff452"
         ]
       },
       {
-        "Level": 17,
-        "Comment": "Finesse Training, Fey Resistance",
+        "Level": 18,
+        "Comment": "Finesse Training, Fey Resistance, WitchGrandHex",
         "m_Features": [
           "!bp_b78d146cea711a84598f0acef69462ea",
-          "!bp_ae0ef197e1904464e9afe115334d4bca"
-        ]
-      },
-      {
-        "Level": 18,
-        "Comment": "Danger Sense, Sylvan Trickster Talents, WitchGrandHex",
-        "m_Features": [
-          "!bp_0bcbe9e450b0e7b428f08f66c53c5136",
-          "!bp_290bbcc3c3bb92144b853fd8fb8ff452",
+          "!bp_ae0ef197e1904464e9afe115334d4bca",
           "!bp_d24c2467804ce0e4497d9978bafec1f9"
         ]
       },
       {
         "Level": 19,
+        "Comment": "Danger Sense, Sylvan Trickster Talents",
         "m_Features": [
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136",
+          "!bp_290bbcc3c3bb92144b853fd8fb8ff452"
         ]
       },
       {
         "Level": 20,
-        "Comment": "Sylvan Trickster Talents, Fey Resistance",
+        "Comment": "",
         "m_Features": [
-          "!bp_290bbcc3c3bb92144b853fd8fb8ff452",
-          "!bp_ae0ef197e1904464e9afe115334d4bca"
         ]
+
       }
     ],
     "UIGroups": [

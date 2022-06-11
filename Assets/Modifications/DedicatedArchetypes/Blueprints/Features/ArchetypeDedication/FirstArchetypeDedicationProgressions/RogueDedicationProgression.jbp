@@ -281,9 +281,10 @@
       },
       {
         "Level": 3,
-        "Comment": "Sneak Attack, Finesse Training",
+        "Comment": "Sneak Attack, Danger Sense, Finesse Training",
         "m_Features": [
           "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136",
           "!bp_b78d146cea711a84598f0acef69462ea"
         ]
       },
@@ -303,8 +304,9 @@
       },
       {
         "Level": 6,
-        "Comment": "Rogue Talents",
+        "Comment": "Danger Sense, Rogue Talents",
         "m_Features": [
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136",
           "!bp_c074a5d615200494b8f2a9c845799d93"
         ]
       },
@@ -324,9 +326,10 @@
       },
       {
         "Level": 9,
-        "Comment": "Sneak Attack",
+        "Comment": "Sneak Attack, Danger Sense",
         "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
         ]
       },
       {
@@ -346,8 +349,9 @@
       },
       {
         "Level": 12,
-        "Comment": "Rogue Talents",
+        "Comment": "Danger Sense, Rogue Talents",
         "m_Features": [
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136",
           "!bp_c074a5d615200494b8f2a9c845799d93"
         ]
       },
@@ -367,9 +371,10 @@
       },
       {
         "Level": 15,
-        "Comment": "Sneak Attack",
+        "Comment": "Sneak Attack, Danger Sense",
         "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
         ]
       },
       {
@@ -388,8 +393,9 @@
       },
       {
         "Level": 18,
-        "Comment": "Rogue Talents",
+        "Comment": "Danger Sense, Rogue Talents",
         "m_Features": [
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136",
           "!bp_c074a5d615200494b8f2a9c845799d93"
         ]
       },
@@ -412,6 +418,13 @@
     ],
     "UIGroups": [
       {
+        "Comment": "Rogue Talents, Trap Finding",
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93",
+          "!bp_dbb6b3bffe6db3547b31c3711653838e"
+        ]
+      },
+      {
         "Comment": "Sneak Attack, Master Strike",
         "m_Features": [
           "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
@@ -419,10 +432,9 @@
         ]
       },
       {
-        "Comment": "Rogue Talents, Trap Finding",
+        "Comment": "Danger Sense",
         "m_Features": [
-          "!bp_c074a5d615200494b8f2a9c845799d93",
-          "!bp_dbb6b3bffe6db3547b31c3711653838e"
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
         ]
       },
       {

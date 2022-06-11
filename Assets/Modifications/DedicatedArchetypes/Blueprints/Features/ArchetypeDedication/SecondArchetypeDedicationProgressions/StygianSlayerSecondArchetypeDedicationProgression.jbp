@@ -272,90 +272,92 @@
       },
       {
         "Level": 9,
-        "Comment": "Sneak Attack",
+        "Comment": "Slayer Talents",
         "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+          "!bp_43d1b15873e926848be2abf0ea3ad9a8"
         ]
       },
       {
         "Level": 10,
+        "Comment": "Sneak Attack, Advanced Talents",
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
+          "!bp_a33b99f95322d6741af83e9381b2391c"
+        ]
+      },
+      {
+        "Level": 11,
         "Comment": "Invisibility",
         "m_Features": [
           "!bp_c38720e9140d5b34f8f22b25c23168a9"
         ]
       },
       {
-        "Level": 11,
+        "Level": 12,
         "Comment": "Study Target",
         "m_Features": [
           "!bp_09bdd9445ac38044389476689ae8d5a1"
         ]
       },
       {
-        "Level": 12,
-        "Comment": "Sneak Attack",
-        "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
-        ]
-      },
-      {
         "Level": 13,
-        "Comment": "Fast Study Target, Slayers Advance",
+        "Comment": "Slayer Talents, Sneak Attack, Slayers Advance",
         "m_Features": [
-          "!bp_40d4f55a5ac0e4f469d67d36c0dfc40b",
+          "!bp_913b9cf25c9536949b43a2651b7ffb66",
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
           "!bp_758e04f4568ec3f4c8d1fd83aed06fb9"
         ]
       },
       {
         "Level": 14,
-        "Comment": "Quarry",
+        "Comment": "Fast Study Target, Quarry",
         "m_Features": [
+          "!bp_40d4f55a5ac0e4f469d67d36c0dfc40b",
           "!bp_385260ca07d5f1b4e907ba22a02944fc"
         ]
       },
       {
         "Level": 15,
+        "Comment": "Slayer Talents",
+        "m_Features": [
+          "!bp_913b9cf25c9536949b43a2651b7ffb66"
+        ]
+      },
+      {
+        "Level": 16,
         "Comment": "Sneak Attack",
         "m_Features": [
           "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
         ]
       },
       {
-        "Level": 16,
-        "Comment": "Study Target, Shadowy Mist Form Fact, Shadowy Mist Form",
+        "Level": 17,
+        "Comment": "Study Target, Slayers Advance Increase, Shadowy Mist Form Fact, Shadowy Mist Form",
         "m_Features": [
           "!bp_09bdd9445ac38044389476689ae8d5a1",
+          "!bp_f4df3231977753d4ebd2ceb2ef5901ed",
           "!bp_24a6043f1b59da04d9b11fa5c3c79e35",
           "!bp_bed2f82519a10214ca023c5961e0c436"
         ]
       },
       {
-        "Level": 17,
-        "Comment": "Slayers Advance Increase",
-        "m_Features": [
-          "!bp_f4df3231977753d4ebd2ceb2ef5901ed"
-        ]
-      },
-      {
         "Level": 18,
-        "Comment": "Sneak Attack",
         "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
         ]
       },
       {
         "Level": 19,
-        "Comment": "Improved Quarry",
+        "Comment": "Slayer Talents, Sneak Attack, Improved Quarry",
         "m_Features": [
+          "!bp_913b9cf25c9536949b43a2651b7ffb66",
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
           "!bp_25e009b7e53f86141adee3a1213af5af"
         ]
       },
       {
         "Level": 20,
-        "Comment": "Study Target, Master Slayer",
+        "Comment": "",
         "m_Features": [
-          "!bp_09bdd9445ac38044389476689ae8d5a1",
-          "!bp_a26c0279a423fc94cabeea898f4d9f8a"
         ]
       }
     ],
@@ -375,8 +377,10 @@
         ]
       },
       {
-        "Comment": "Invisibility, Shadowy Mist Form",
+        "Comment": "Slayer Talents, Invisibility, Shadowy Mist Form",
         "m_Features": [
+          "!bp_43d1b15873e926848be2abf0ea3ad9a8",
+          "!bp_913b9cf25c9536949b43a2651b7ffb66",
           "!bp_c38720e9140d5b34f8f22b25c23168a9",
           "!bp_bed2f82519a10214ca023c5961e0c436"
         ]
