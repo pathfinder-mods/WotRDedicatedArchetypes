@@ -1,5 +1,5 @@
 {
-  "AssetId": "34d0592960a249508241e6699d28dcf5",
+  "AssetId": "1646ed1934554ffea9286608eef16764",
   "Data": {
     "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
     "PrototypeLink": null,
@@ -8,7 +8,7 @@
       {
         "$type": "0a53ee09075a237408f1347648c1e91a, AddFeatureOnApply",
         "m_Flags": 0,
-        "name": "$AddFeatureOnApply$b1a6d46a-ecaa-4d02-b341-495c0d61ce36(SylvanTricksterDedication)",
+        "name": "$AddFeatureOnApply$b1a6d46a-ecaa-4d02-b341-495c0d61ce36(DangerSenseDedication)(Clone2)",
         "PrototypeLink": {
           "guid": "",
           "name": ""
@@ -20,7 +20,7 @@
 
       {
         "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
-        "name": "$PrerequisiteNoClassLevel$a1761906-b1e6-45cf-8eb3-e7d1a1d639df(Rouge)",
+        "name": "$PrerequisiteNoClassLevel$a1761906-b1e6-45cf-8eb3-e7d1a1d639df(Rouge)(Clone2)",
         "PrototypeLink": {
           "guid": "",
           "name": ""
@@ -35,7 +35,7 @@
       
       {
         "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
-        "name": "$PrerequisiteNoFeature$6667ba5d-3c15-4eae-9714-4dddde110d51(SylvanTricksterDedication)",
+        "name": "$PrerequisiteNoFeature$6667ba5d-3c15-4eae-9714-4dddde110d51(DangerSenseDedication)(Clone2)",
         "PrototypeLink": {
           "guid": "",
           "name": ""
@@ -49,15 +49,15 @@
     ],
     "m_AllowNonContextActions": false,
     "m_DisplayName": {
-      "m_Key": "SylvanTricksterDedicationProgression_Name",
-      "m_OwnerString": "34d0592960a249508241e6699d28dcf5",
+      "m_Key": "DangerSenseDedicationProgression_Name",
+      "m_OwnerString": "1646ed1934554ffea9286608eef16764",
       "m_OwnerPropertyPath": "m_DisplayName",
       "m_JsonPath": "",
       "Shared": null
     },
     "m_Description": {
-      "m_Key": "SylvanTricksterDedicationProgression_Description",
-      "m_OwnerString": "34d0592960a249508241e6699d28dcf5",
+      "m_Key": "DangerSenseDedicationProgression_Description",
+      "m_OwnerString": "1646ed1934554ffea9286608eef16764",
       "m_OwnerPropertyPath": "m_Description",
       "m_JsonPath": "",
       "Shared": null
@@ -70,7 +70,7 @@
       "Shared": null
     },
     "m_Icon": {
-      "guid": "0bdc70867b7677348abbcb274c72f765",
+      "guid": "7ab9a8025ca271d43a8debfa01fd17c3",
       "fileid": 21300000
     },
     "HideInUI": false,
@@ -88,38 +88,10 @@
     "AlternateProgressionType": "Div2",
     "LevelEntries": [
       {
-        "Level": 3,
-        "Comment": "Danger Sense",
-        "m_Features": [
-          "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
-        ]
-      },
-      {
-        "Level": 6,
-        "Comment": "Danger Sense",
-        "m_Features": [
-          "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
-        ]
-      },
-      {
-        "Level": 8,
-        "Comment": "Fey Resistance",
-        "m_Features": [
-          "!bp_ae0ef197e1904464e9afe115334d4bca"
-        ]
-      },
-      {
         "Level": 9,
         "Comment": "Danger Sense",
         "m_Features": [
           "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
-        ]
-      },
-      {
-        "Level": 11,
-        "Comment": "Fey Resistance",
-        "m_Features": [
-          "!bp_ae0ef197e1904464e9afe115334d4bca"
         ]
       },
       {
@@ -130,24 +102,10 @@
         ]
       },
       {
-        "Level": 14,
-        "Comment": "Fey Resistance",
-        "m_Features": [
-          "!bp_ae0ef197e1904464e9afe115334d4bca"
-        ]
-      },
-      {
         "Level": 15,
         "Comment": "Danger Sense",
         "m_Features": [
           "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
-        ]
-      },
-      {
-        "Level": 17,
-        "Comment": "Fey Resistance",
-        "m_Features": [
-          "!bp_ae0ef197e1904464e9afe115334d4bca"
         ]
       },
       {
@@ -156,13 +114,6 @@
         "m_Features": [
           "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
         ]
-      },
-      {
-        "Level": 20,
-        "Comment": "Fey Resistance",
-        "m_Features": [
-          "!bp_ae0ef197e1904464e9afe115334d4bca"
-        ]
       }
     ],
     "UIGroups": [
@@ -170,12 +121,6 @@
         "Comment": "Danger Sense",
         "m_Features": [
           "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
-        ]
-      },
-      {
-        "Comment": "Fey Resistance",
-        "m_Features": [
-          "!bp_ae0ef197e1904464e9afe115334d4bca"
         ]
       }
     ],

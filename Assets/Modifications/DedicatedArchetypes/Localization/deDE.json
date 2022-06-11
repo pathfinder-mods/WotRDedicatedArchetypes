@@ -100,6 +100,22 @@
       "Value": "Der Charakter erhält Zugriff auf die Fähigkeiten Feind Studieren, Hinterhältiger Angriff und Beute des Schattenmörders."
     },
     {
+      "Key": "DangerSenseDedicationProgression_Name",
+      "Value": "Gefahrensinn"
+    },
+    {
+      "Key": "DangerSenseDedicationProgression_Description",
+      "Value": ""
+    },
+    {
+      "Key": "FeyResistanceDedicationProgression_Name",
+      "Value": "Feenwiderstand"
+    },
+    {
+      "Key": "FeyResistanceDedicationProgression_Description",
+      "Value": ""
+    },
+    {
       "Key": "FighterTalentsDedicationProgression_Name",
       "Value": "Kämpfertalente"
     },
@@ -153,14 +169,6 @@
     },
     {
       "Key": "StygianSlayerDedicationProgression_Description",
-      "Value": ""
-    },
-    {
-      "Key": "SylvanTricksterDedicationProgression_Name",
-      "Value": "Sylvanischer Trickser"
-    },
-    {
-      "Key": "SylvanTricksterDedicationProgression_Description",
       "Value": ""
     },
     {

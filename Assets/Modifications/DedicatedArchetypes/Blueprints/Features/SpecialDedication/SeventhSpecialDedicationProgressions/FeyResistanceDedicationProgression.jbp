@@ -1,0 +1,113 @@
+{
+  "AssetId": "e802f1f335cf494a84e6dff8d20e9f5a",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "0a53ee09075a237408f1347648c1e91a, AddFeatureOnApply",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnApply$b1a6d46a-ecaa-4d02-b341-495c0d61ce36(FeyResistanceDedication)(Clone2)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "!bp_2b5de104b42f413db6714d54d4a4f98b"
+      },
+
+      
+      {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$13cf754f-81a9-45b7-a7f3-9314f72a1d96(Rouge(SylvanTrickster))(Clone2)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_299aa766dee3cbf4790da4efb8c72484",
+        "m_Archetype": "!bp_490394869f666c141bf8647b1a365220"
+      },
+      
+      
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$6667ba5d-3c15-4eae-9714-4dddde110d51(FeyResistanceDedication)(Clone2)",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_2b5de104b42f413db6714d54d4a4f98b"
+      }
+    ],
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "FeyResistanceDedicationProgression_Name",
+      "m_OwnerString": "e802f1f335cf494a84e6dff8d20e9f5a",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "FeyResistanceDedicationProgression_Description",
+      "m_OwnerString": "e802f1f335cf494a84e6dff8d20e9f5a",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "0bdc70867b7677348abbcb274c72f765",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": true,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 20,
+        "Comment": "Fey Resistance",
+        "m_Features": [
+          "!bp_ae0ef197e1904464e9afe115334d4bca"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "Comment": "Fey Resistance",
+        "m_Features": [
+          "!bp_ae0ef197e1904464e9afe115334d4bca"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeatureRankIncrease": null
+  }
+}
